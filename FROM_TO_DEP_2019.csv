@@ -1,0 +1,1495 @@
+ORIGEN;DESTINO;VALOR
+A001  Banco Nacional de Panamá;045  The Bank Of Nova Scotia;25000000
+A001  Banco Nacional de Panamá;050  Banco Aliado S.A.;3000000
+A001  Banco Nacional de Panamá;140  Credicorp Bank S.A.;4000000
+A001  Banco Nacional de Panamá;148  Global Bank Corporation;5000000
+A001  Banco Nacional de Panamá;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;16994.93
+A001  Banco Nacional de Panamá;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;20000000
+A001  Banco Nacional de Panamá;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;45000000
+A001  Banco Nacional de Panamá;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;35000000
+A001  Banco Nacional de Panamá;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;50000000
+A001  Banco Nacional de Panamá;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;30000000
+A001  Banco Nacional de Panamá;E017 BANCO DEL  ESTADO DE CHILE                             ;35000000
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;1070311.74
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;85000000
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;35000000
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;50000000
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;200000000
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;115000000
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;65000000
+A001  Banco Nacional de Panamá;E030 BANK FOR INTERNATIONAL SETTLEMENTS                     ;15000000
+A001  Banco Nacional de Panamá;E033 BANK OF AMERICA;407044.74
+A001  Banco Nacional de Panamá;E033 BANK OF AMERICA;40700000
+A001  Banco Nacional de Panamá;E033 BANK OF AMERICA;10000000
+A001  Banco Nacional de Panamá;E042 CITIBANK                                               ;1130651.81
+A001  Banco Nacional de Panamá;E042 CITIBANK                                               ;309500000
+A001  Banco Nacional de Panamá;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;45000000
+A001  Banco Nacional de Panamá;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;51000000
+A001  Banco Nacional de Panamá;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;50000000
+A001  Banco Nacional de Panamá;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;50000000
+A001  Banco Nacional de Panamá;E058 FEDERAL RESERVE BANK;58596673.38
+A001  Banco Nacional de Panamá;E069 JP MORGAN CHASE ;6964.61
+A001  Banco Nacional de Panamá;E069 JP MORGAN CHASE ;10514151.46
+A001  Banco Nacional de Panamá;E069 JP MORGAN CHASE ;250000000
+A001  Banco Nacional de Panamá;E083 RABOBANK INTERNATIONAL                                 ;10000000
+A001  Banco Nacional de Panamá;E083 RABOBANK INTERNATIONAL                                 ;50000000
+A001  Banco Nacional de Panamá;E090 SUMITOMO MITSUI BANKING                                ;20000000
+A001  Banco Nacional de Panamá;E090 SUMITOMO MITSUI BANKING                                ;50000000
+A001  Banco Nacional de Panamá;E090 SUMITOMO MITSUI BANKING                                ;50000000
+A001  Banco Nacional de Panamá;E093 THE BANK OF MONTREAL                                   ;15000000
+A001  Banco Nacional de Panamá;E093 THE BANK OF MONTREAL                                   ;45000000
+A001  Banco Nacional de Panamá;E094 THE BANK OF NEW YORK                                   ;1632355.76
+A001  Banco Nacional de Panamá;E094 THE BANK OF NEW YORK                                   ;150000000
+A001  Banco Nacional de Panamá;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;105000000
+A001  Banco Nacional de Panamá;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);404.92
+A001  Banco Nacional de Panamá;E098 THE ROYAL BANK OF CANADA                               ;25000000
+A001  Banco Nacional de Panamá;E098 THE ROYAL BANK OF CANADA                               ;25000000
+A001  Banco Nacional de Panamá;E104 WELLS FARGO                                            ;241746.36
+A001  Banco Nacional de Panamá;E104 WELLS FARGO                                            ;100000000
+A001  Banco Nacional de Panamá;E104 WELLS FARGO                                            ;50000000
+A001  Banco Nacional de Panamá;E110 NATIONAL BANK OF CANADA;15000000
+A001  Banco Nacional de Panamá;E110 NATIONAL BANK OF CANADA;30000000
+A001  Banco Nacional de Panamá;E133 ZURCHER KANTONALBANK ;50000000
+A001  Banco Nacional de Panamá;E133 ZURCHER KANTONALBANK ;50000000
+A001  Banco Nacional de Panamá;E133 ZURCHER KANTONALBANK ;15000000
+A001  Banco Nacional de Panamá;E133 ZURCHER KANTONALBANK ;35000000
+A001  Banco Nacional de Panamá;E133 ZURCHER KANTONALBANK ;50000000
+A001  Banco Nacional de Panamá;E133 ZURCHER KANTONALBANK ;50000000
+A001  Banco Nacional de Panamá;E137 LANDESBANK BADEN-WÜRTTEMBERG;35000000
+A001  Banco Nacional de Panamá;E137 LANDESBANK BADEN-WÜRTTEMBERG;5000000
+002  Caja de Ahorros;A001  Banco Nacional de Panamá;36163.66
+002  Caja de Ahorros;A001  Banco Nacional de Panamá;66825000
+002  Caja de Ahorros;003  Banco General, S.A.;1005647.43
+002  Caja de Ahorros;003  Banco General, S.A.;1037024.53
+002  Caja de Ahorros;003  Banco General, S.A.;15000000
+002  Caja de Ahorros;003  Banco General, S.A.;12088116.82
+002  Caja de Ahorros;024  Banco Internacional de Costa Rica, S.A.;10117004.99
+002  Caja de Ahorros;024  Banco Internacional de Costa Rica, S.A.;7166072
+002  Caja de Ahorros;024  Banco Internacional de Costa Rica, S.A.;3177258.3
+002  Caja de Ahorros;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;4264487.57
+002  Caja de Ahorros;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;3668404.49
+002  Caja de Ahorros;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2054891.63
+002  Caja de Ahorros;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;3049614.62
+002  Caja de Ahorros;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;16491617.08
+002  Caja de Ahorros;037  Citibank, N.A. Sucursal Panamá;1677271.8
+002  Caja de Ahorros;037  Citibank, N.A. Sucursal Panamá;750000
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;2060947.17
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;3007378.81
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;2045571.36
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;4052665.92
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;1061290.94
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;16467814.38
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;1006390.8
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;5179015.62
+002  Caja de Ahorros;045  The Bank Of Nova Scotia;5012502.71
+002  Caja de Ahorros;050  Banco Aliado S.A.;6154611.29
+002  Caja de Ahorros;050  Banco Aliado S.A.;7235235.79
+002  Caja de Ahorros;056  Towerbank International Inc.;2026881.44
+002  Caja de Ahorros;056  Towerbank International Inc.;4739874.1
+002  Caja de Ahorros;056  Towerbank International Inc.;2029463.08
+002  Caja de Ahorros;135  Multibank Inc.;8000000
+002  Caja de Ahorros;135  Multibank Inc.;5033952.9
+002  Caja de Ahorros;135  Multibank Inc.;1007686.61
+002  Caja de Ahorros;136  Metrobank, S.A.;2011909.38
+002  Caja de Ahorros;136  Metrobank, S.A.;1000243.06
+002  Caja de Ahorros;136  Metrobank, S.A.;4500000
+002  Caja de Ahorros;140  Credicorp Bank S.A.;1004284.4
+002  Caja de Ahorros;140  Credicorp Bank S.A.;5051836.5
+002  Caja de Ahorros;148  Global Bank Corporation;5043668.62
+002  Caja de Ahorros;148  Global Bank Corporation;5000000
+002  Caja de Ahorros;148  Global Bank Corporation;2560595.21
+002  Caja de Ahorros;155  BAC International Bank, Inc.;6039293.85
+002  Caja de Ahorros;182  Banistmo S.A.;10001333.39
+002  Caja de Ahorros;182  Banistmo S.A.;4000000
+002  Caja de Ahorros;182  Banistmo S.A.;2057526.67
+002  Caja de Ahorros;182  Banistmo S.A.;2058613.03
+002  Caja de Ahorros;182  Banistmo S.A.;1629561.21
+002  Caja de Ahorros;210  Capital Bank Inc.;3000000
+002  Caja de Ahorros;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;200000000
+002  Caja de Ahorros;E042 CITIBANK                                               ;9119932.12
+002  Caja de Ahorros;E042 CITIBANK                                               ;48789395.17
+002  Caja de Ahorros;E069 JP MORGAN CHASE ;364255563.9
+002  Caja de Ahorros;E090 SUMITOMO MITSUI BANKING                                ;50000000
+003  Banco General, S.A.;A001  Banco Nacional de Panamá;45000917.2
+003  Banco General, S.A.;A001  Banco Nacional de Panamá;21474150
+003  Banco General, S.A.;E021 BANCO GENERAL;331.35
+003  Banco General, S.A.;E021 BANCO GENERAL;2875000
+003  Banco General, S.A.;E021 BANCO GENERAL;835000
+003  Banco General, S.A.;E021 BANCO GENERAL;4315000
+003  Banco General, S.A.;E021 BANCO GENERAL;3200000
+003  Banco General, S.A.;E021 BANCO GENERAL;2500000
+003  Banco General, S.A.;E021 BANCO GENERAL;3705000
+003  Banco General, S.A.;E021 BANCO GENERAL;1605000
+003  Banco General, S.A.;E021 BANCO GENERAL;585000
+003  Banco General, S.A.;E021 BANCO GENERAL;8935000
+003  Banco General, S.A.;E021 BANCO GENERAL;4770000
+003  Banco General, S.A.;E021 BANCO GENERAL;8715000
+003  Banco General, S.A.;E021 BANCO GENERAL;1215000
+003  Banco General, S.A.;E021 BANCO GENERAL;930000
+003  Banco General, S.A.;E026 BANCO SANTANDER CENTRAL HISPANO                        ;1743.36
+003  Banco General, S.A.;E033 BANK OF AMERICA;1262.48
+003  Banco General, S.A.;E033 BANK OF AMERICA;21380673.85
+003  Banco General, S.A.;E035 BARCLAYS BANK P.L.C.                                   ;12960.38
+003  Banco General, S.A.;E035 BARCLAYS BANK P.L.C.                                   ;130834.69
+003  Banco General, S.A.;E042 CITIBANK                                               ;303000.52
+003  Banco General, S.A.;E045 COMMERZBANK                                            ;34032.97
+003  Banco General, S.A.;E069 JP MORGAN CHASE ;64051.8
+003  Banco General, S.A.;E069 JP MORGAN CHASE ;80084172.78
+003  Banco General, S.A.;E094 THE BANK OF NEW YORK                                   ;3672552.56
+003  Banco General, S.A.;E104 WELLS FARGO                                            ;102800958.1
+003  Banco General, S.A.;E123 BANCO NACIONAL DE MÉXICO, S.A. (BANAMEX);78071.63
+003  Banco General, S.A.;E164 BANCO ITAU   ;29623.65
+003  Banco General, S.A.;E176 BANCO DE CREDITO DEL PERU;48101.33
+003  Banco General, S.A.;E206 Euroclear Bank;8068.41
+007  Banco Davivienda (Panamá) S.A.;A001  Banco Nacional de Panamá;5025115.15
+007  Banco Davivienda (Panamá) S.A.;A001  Banco Nacional de Panamá;2202225.64
+007  Banco Davivienda (Panamá) S.A.;E012 BANCO DAVIVIENDA S.A.                                  ;810166.62
+007  Banco Davivienda (Panamá) S.A.;E012 BANCO DAVIVIENDA S.A.                                  ;1017305.4
+007  Banco Davivienda (Panamá) S.A.;E033 BANK OF AMERICA;586714.99
+007  Banco Davivienda (Panamá) S.A.;E042 CITIBANK                                               ;630633.04
+007  Banco Davivienda (Panamá) S.A.;E069 JP MORGAN CHASE ;549404.88
+007  Banco Davivienda (Panamá) S.A.;E089 STANDARD CHARTERED BANK                                ;550999.39
+007  Banco Davivienda (Panamá) S.A.;E089 STANDARD CHARTERED BANK                                ;7120521.98
+007  Banco Davivienda (Panamá) S.A.;E104 WELLS FARGO                                            ;337050.85
+007  Banco Davivienda (Panamá) S.A.;E104 WELLS FARGO                                            ;93977806.16
+007  Banco Davivienda (Panamá) S.A.;"E151 BANCO DE OCCIDENTE
+";10000000
+024  Banco Internacional de Costa Rica, S.A.;A001  Banco Nacional de Panamá;20665084.74
+024  Banco Internacional de Costa Rica, S.A.;A001  Banco Nacional de Panamá;12384965.68
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;1000000
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;2000000
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;2000000
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;2000000
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;3000000
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;1000000
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;2000000
+024  Banco Internacional de Costa Rica, S.A.;002  Caja de Ahorros;2000000
+024  Banco Internacional de Costa Rica, S.A.;003  Banco General, S.A.;34108.95
+024  Banco Internacional de Costa Rica, S.A.;050  Banco Aliado S.A.;3000000
+024  Banco Internacional de Costa Rica, S.A.;050  Banco Aliado S.A.;1500000
+024  Banco Internacional de Costa Rica, S.A.;050  Banco Aliado S.A.;500000
+024  Banco Internacional de Costa Rica, S.A.;050  Banco Aliado S.A.;2000000
+024  Banco Internacional de Costa Rica, S.A.;050  Banco Aliado S.A.;3000000
+024  Banco Internacional de Costa Rica, S.A.;050  Banco Aliado S.A.;2000000
+024  Banco Internacional de Costa Rica, S.A.;056  Towerbank International Inc.;1000000
+024  Banco Internacional de Costa Rica, S.A.;056  Towerbank International Inc.;2000000
+024  Banco Internacional de Costa Rica, S.A.;056  Towerbank International Inc.;1500000
+024  Banco Internacional de Costa Rica, S.A.;136  Metrobank, S.A.;1000000
+024  Banco Internacional de Costa Rica, S.A.;136  Metrobank, S.A.;1500000
+024  Banco Internacional de Costa Rica, S.A.;136  Metrobank, S.A.;2000000
+024  Banco Internacional de Costa Rica, S.A.;140  Credicorp Bank S.A.;1000000
+024  Banco Internacional de Costa Rica, S.A.;148  Global Bank Corporation;5000000
+024  Banco Internacional de Costa Rica, S.A.;148  Global Bank Corporation;3000000
+024  Banco Internacional de Costa Rica, S.A.;148  Global Bank Corporation;3000000
+024  Banco Internacional de Costa Rica, S.A.;148  Global Bank Corporation;3500000
+024  Banco Internacional de Costa Rica, S.A.;148  Global Bank Corporation;4000000
+024  Banco Internacional de Costa Rica, S.A.;148  Global Bank Corporation;1500000
+024  Banco Internacional de Costa Rica, S.A.;182  Banistmo S.A.;2165740.68
+024  Banco Internacional de Costa Rica, S.A.;196  Banco Delta, S.A.;500000
+024  Banco Internacional de Costa Rica, S.A.;196  Banco Delta, S.A.;500000
+024  Banco Internacional de Costa Rica, S.A.;206  Banisi, S.A.;1000000
+024  Banco Internacional de Costa Rica, S.A.;206  Banisi, S.A.;1000000
+024  Banco Internacional de Costa Rica, S.A.;210  Capital Bank Inc.;2500000
+024  Banco Internacional de Costa Rica, S.A.;220  Banco Panamá, S.A.;1500000
+024  Banco Internacional de Costa Rica, S.A.;220  Banco Panamá, S.A.;1000000
+024  Banco Internacional de Costa Rica, S.A.;220  Banco Panamá, S.A.;2500000
+024  Banco Internacional de Costa Rica, S.A.;236  Unibank, S.A.;500000
+024  Banco Internacional de Costa Rica, S.A.;236  Unibank, S.A.;1500000
+024  Banco Internacional de Costa Rica, S.A.;E033 BANK OF AMERICA;1262946.53
+024  Banco Internacional de Costa Rica, S.A.;E035 BARCLAYS BANK P.L.C.                                   ;29785.68
+024  Banco Internacional de Costa Rica, S.A.;E035 BARCLAYS BANK P.L.C.                                   ;5111.88
+024  Banco Internacional de Costa Rica, S.A.;E035 BARCLAYS BANK P.L.C.                                   ;8096.77
+024  Banco Internacional de Costa Rica, S.A.;E042 CITIBANK                                               ;5760503.17
+024  Banco Internacional de Costa Rica, S.A.;E052 DEUTSCHE BANK                                          ;1655410.28
+024  Banco Internacional de Costa Rica, S.A.;E052 DEUTSCHE BANK                                          ;596790.07
+024  Banco Internacional de Costa Rica, S.A.;E052 DEUTSCHE BANK                                          ;36239170.16
+024  Banco Internacional de Costa Rica, S.A.;E052 DEUTSCHE BANK                                          ;265974.64
+024  Banco Internacional de Costa Rica, S.A.;E052 DEUTSCHE BANK                                          ;252871.21
+024  Banco Internacional de Costa Rica, S.A.;E057 EFG BANK                                               ;32475.14
+024  Banco Internacional de Costa Rica, S.A.;E057 EFG BANK                                               ;309021.84
+024  Banco Internacional de Costa Rica, S.A.;E058 FEDERAL RESERVE BANK;36615.83
+024  Banco Internacional de Costa Rica, S.A.;E058 FEDERAL RESERVE BANK;112514.25
+024  Banco Internacional de Costa Rica, S.A.;E058 FEDERAL RESERVE BANK;59253689.51
+024  Banco Internacional de Costa Rica, S.A.;E058 FEDERAL RESERVE BANK;23169.2
+024  Banco Internacional de Costa Rica, S.A.;E058 FEDERAL RESERVE BANK;750000
+024  Banco Internacional de Costa Rica, S.A.;E090 SUMITOMO MITSUI BANKING                                ;687.97
+024  Banco Internacional de Costa Rica, S.A.;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;0
+024  Banco Internacional de Costa Rica, S.A.;E102 UNICREDITO ITALIANO                                    ;4396.12
+024  Banco Internacional de Costa Rica, S.A.;E104 WELLS FARGO                                            ;12874341.34
+024  Banco Internacional de Costa Rica, S.A.;E104 WELLS FARGO                                            ;12915.93
+024  Banco Internacional de Costa Rica, S.A.;E104 WELLS FARGO                                            ;163111.77
+024  Banco Internacional de Costa Rica, S.A.;E229 BANKINTER;434486.42
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);A001  Banco Nacional de Panamá;1935.8
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);003  Banco General, S.A.;49253
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);003  Banco General, S.A.;3405192.96
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);003  Banco General, S.A.;276224.67
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;58137.28
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;126244.21
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;8233.14
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E015 BANCO DE GALICIA Y BUENOS AIRES                        ;13841.86
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E015 BANCO DE GALICIA Y BUENOS AIRES                        ;2463.72
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E026 BANCO SANTANDER CENTRAL HISPANO                        ;1608022.97
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E033 BANK OF AMERICA;204883921.2
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E033 BANK OF AMERICA;378.74
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E033 BANK OF AMERICA;12366.53
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E035 BARCLAYS BANK P.L.C.                                   ;15038.53
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E042 CITIBANK                                               ;314000.07
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E042 CITIBANK                                               ;200000000
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E042 CITIBANK                                               ;92400.19
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E058 FEDERAL RESERVE BANK;435642066.1
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E064 HSBC GROUP;40145.6
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E069 JP MORGAN CHASE ;36721666.42
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E069 JP MORGAN CHASE ;3505.86
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E069 JP MORGAN CHASE ;52310.07
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E077 MIZUHO CORPORATE BANK                                  ;1748.27
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E089 STANDARD CHARTERED BANK                                ;2014.91
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E089 STANDARD CHARTERED BANK                                ;49408.25
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);2608.55
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E104 WELLS FARGO                                            ;200147727.4
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E137 LANDESBANK BADEN-WÜRTTEMBERG;16512.88
+027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADEX);E176 BANCO DE CREDITO DEL PERU;31593.92
+037  Citibank, N.A. Sucursal Panamá;A001  Banco Nacional de Panamá;56943238.99
+037  Citibank, N.A. Sucursal Panamá;A001  Banco Nacional de Panamá;7985257.12
+037  Citibank, N.A. Sucursal Panamá;A001  Banco Nacional de Panamá;24000000
+037  Citibank, N.A. Sucursal Panamá;003  Banco General, S.A.;3000
+037  Citibank, N.A. Sucursal Panamá;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;30000000
+037  Citibank, N.A. Sucursal Panamá;140  Credicorp Bank S.A.;4000000
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;595.14
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;1030.9
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;5860.91
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;722.12
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;15.84
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;4944.31
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;25225489.9
+037  Citibank, N.A. Sucursal Panamá;E042 CITIBANK                                               ;188872692.6
+037  Citibank, N.A. Sucursal Panamá;E091 SVENSKA HANDELSBANKEN                                  ;94.47
+039  Keb Hana Bank;A001  Banco Nacional de Panamá;3146286.36
+039  Keb Hana Bank;A001  Banco Nacional de Panamá;310331.59
+039  Keb Hana Bank;182  Banistmo S.A.;502310.18
+039  Keb Hana Bank;182  Banistmo S.A.;3000000
+039  Keb Hana Bank;182  Banistmo S.A.;15000000
+039  Keb Hana Bank;E033 BANK OF AMERICA;425752.55
+039  Keb Hana Bank;E052 DEUTSCHE BANK                                          ;738516.43
+039  Keb Hana Bank;E071 KOREA EXCHANGE BANK                                    ;14450
+039  Keb Hana Bank;E071 KOREA EXCHANGE BANK                                    ;134120.88
+039  Keb Hana Bank;E071 KOREA EXCHANGE BANK                                    ;4700907.18
+039  Keb Hana Bank;E071 KOREA EXCHANGE BANK                                    ;10000000
+045  The Bank Of Nova Scotia;A001  Banco Nacional de Panamá;46960222.88
+045  The Bank Of Nova Scotia;A001  Banco Nacional de Panamá;810130.14
+045  The Bank Of Nova Scotia;A001  Banco Nacional de Panamá;13576000
+045  The Bank Of Nova Scotia;179  Scotiabank (Panamá), S.A.;581548.8
+045  The Bank Of Nova Scotia;E033 BANK OF AMERICA;2310977.19
+045  The Bank Of Nova Scotia;E042 CITIBANK                                               ;3379875.79
+045  The Bank Of Nova Scotia;E042 CITIBANK                                               ;3084507.24
+045  The Bank Of Nova Scotia;E069 JP MORGAN CHASE ;45642497.09
+045  The Bank Of Nova Scotia;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;790.29
+045  The Bank Of Nova Scotia;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;819448.27
+045  The Bank Of Nova Scotia;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;70445.17
+045  The Bank Of Nova Scotia;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;2548983.72
+045  The Bank Of Nova Scotia;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;100000000
+045  The Bank Of Nova Scotia;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;80000000
+045  The Bank Of Nova Scotia;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;243272.7
+050  Banco Aliado S.A.;A001  Banco Nacional de Panamá;21759874.93
+050  Banco Aliado S.A.;A001  Banco Nacional de Panamá;1036887.5
+050  Banco Aliado S.A.;A001  Banco Nacional de Panamá;1000000
+050  Banco Aliado S.A.;A001  Banco Nacional de Panamá;500000
+050  Banco Aliado S.A.;002  Caja de Ahorros;2000000
+050  Banco Aliado S.A.;002  Caja de Ahorros;3000000
+050  Banco Aliado S.A.;002  Caja de Ahorros;3500000
+050  Banco Aliado S.A.;002  Caja de Ahorros;3500000
+050  Banco Aliado S.A.;002  Caja de Ahorros;2000000
+050  Banco Aliado S.A.;002  Caja de Ahorros;1000000
+050  Banco Aliado S.A.;002  Caja de Ahorros;5000000
+050  Banco Aliado S.A.;002  Caja de Ahorros;4000000
+050  Banco Aliado S.A.;002  Caja de Ahorros;3000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;158776.8
+050  Banco Aliado S.A.;003  Banco General, S.A.;5000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;3000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;5000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;2000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;2000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;3000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;5000000
+050  Banco Aliado S.A.;003  Banco General, S.A.;5000000
+050  Banco Aliado S.A.;024  Banco Internacional de Costa Rica, S.A.;2000000
+050  Banco Aliado S.A.;024  Banco Internacional de Costa Rica, S.A.;1500000
+050  Banco Aliado S.A.;024  Banco Internacional de Costa Rica, S.A.;2500000
+050  Banco Aliado S.A.;024  Banco Internacional de Costa Rica, S.A.;2000000
+050  Banco Aliado S.A.;024  Banco Internacional de Costa Rica, S.A.;1000000
+050  Banco Aliado S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+050  Banco Aliado S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;6000000
+050  Banco Aliado S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2000000
+050  Banco Aliado S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;10000000
+050  Banco Aliado S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1000000
+050  Banco Aliado S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;2000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;3000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;3000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;7000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;3000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;5000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;3000000
+050  Banco Aliado S.A.;045  The Bank Of Nova Scotia;4000000
+050  Banco Aliado S.A.;056  Towerbank International Inc.;2000000
+050  Banco Aliado S.A.;135  Multibank Inc.;2000000
+050  Banco Aliado S.A.;135  Multibank Inc.;3000000
+050  Banco Aliado S.A.;135  Multibank Inc.;1000000
+050  Banco Aliado S.A.;135  Multibank Inc.;7000000
+050  Banco Aliado S.A.;135  Multibank Inc.;5000000
+050  Banco Aliado S.A.;135  Multibank Inc.;2000000
+050  Banco Aliado S.A.;135  Multibank Inc.;3000000
+050  Banco Aliado S.A.;136  Metrobank, S.A.;2000000
+050  Banco Aliado S.A.;136  Metrobank, S.A.;2000000
+050  Banco Aliado S.A.;136  Metrobank, S.A.;3000000
+050  Banco Aliado S.A.;136  Metrobank, S.A.;3000000
+050  Banco Aliado S.A.;136  Metrobank, S.A.;2000000
+050  Banco Aliado S.A.;136  Metrobank, S.A.;3000000
+050  Banco Aliado S.A.;140  Credicorp Bank S.A.;1000000
+050  Banco Aliado S.A.;140  Credicorp Bank S.A.;1500000
+050  Banco Aliado S.A.;140  Credicorp Bank S.A.;2000000
+050  Banco Aliado S.A.;140  Credicorp Bank S.A.;2000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;132289.08
+050  Banco Aliado S.A.;182  Banistmo S.A.;2000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;3000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;1000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;2000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;3000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;5000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;3000000
+050  Banco Aliado S.A.;182  Banistmo S.A.;3000000
+050  Banco Aliado S.A.;201  Banesco (Panamá), S.A.;5000000
+050  Banco Aliado S.A.;210  Capital Bank Inc.;3000000
+050  Banco Aliado S.A.;210  Capital Bank Inc.;1000000
+050  Banco Aliado S.A.;220  Banco Panamá, S.A.;1500000
+050  Banco Aliado S.A.;E005 BAC                                                    ;2192350.44
+050  Banco Aliado S.A.;E005 BAC                                                    ;3500000
+050  Banco Aliado S.A.;E005 BAC                                                    ;2000000
+050  Banco Aliado S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+050  Banco Aliado S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;7000000
+050  Banco Aliado S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;3000000
+050  Banco Aliado S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+050  Banco Aliado S.A.;E020 BANCO FINANCIERO DEL PERU                              ;3000000
+050  Banco Aliado S.A.;E042 CITIBANK                                               ;297030.28
+050  Banco Aliado S.A.;E042 CITIBANK                                               ;29463076.12
+050  Banco Aliado S.A.;E045 COMMERZBANK                                            ;104883.65
+050  Banco Aliado S.A.;E045 COMMERZBANK                                            ;41857.86
+050  Banco Aliado S.A.;E045 COMMERZBANK                                            ;5000000
+050  Banco Aliado S.A.;E068 ISRAEL DISCOUNT BANK                                   ;3000000
+050  Banco Aliado S.A.;E069 JP MORGAN CHASE ;24404788.14
+050  Banco Aliado S.A.;E070 KBC BANK                                               ;5000000
+050  Banco Aliado S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+050  Banco Aliado S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+050  Banco Aliado S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+050  Banco Aliado S.A.;E090 SUMITOMO MITSUI BANKING                                ;3000000
+050  Banco Aliado S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+050  Banco Aliado S.A.;E186 BANCO CORPBANCA ;2000000
+050  Banco Aliado S.A.;E186 BANCO CORPBANCA ;2000000
+050  Banco Aliado S.A.;E186 BANCO CORPBANCA ;3000000
+050  Banco Aliado S.A.;E186 BANCO CORPBANCA ;2000000
+050  Banco Aliado S.A.;E186 BANCO CORPBANCA ;3000000
+050  Banco Aliado S.A.;E186 BANCO CORPBANCA ;3000000
+051  Mega International Commercial Bank Co. Ltd.;A001  Banco Nacional de Panamá;1523637.95
+051  Mega International Commercial Bank Co. Ltd.;A001  Banco Nacional de Panamá;239964.87
+051  Mega International Commercial Bank Co. Ltd.;220  Banco Panamá, S.A.;162964.18
+051  Mega International Commercial Bank Co. Ltd.;220  Banco Panamá, S.A.;253487.03
+051  Mega International Commercial Bank Co. Ltd.;E074 MEGA INTERNATIONAL COMMERCIAL BANK                     ;7398465.05
+051  Mega International Commercial Bank Co. Ltd.;E094 THE BANK OF NEW YORK                                   ;655400.94
+056  Towerbank International Inc.;A001  Banco Nacional de Panamá;408658.46
+056  Towerbank International Inc.;002  Caja de Ahorros;2000000
+056  Towerbank International Inc.;002  Caja de Ahorros;2000000
+056  Towerbank International Inc.;002  Caja de Ahorros;1000000
+056  Towerbank International Inc.;002  Caja de Ahorros;1000000
+056  Towerbank International Inc.;050  Banco Aliado S.A.;2500000
+056  Towerbank International Inc.;135  Multibank Inc.;3000000
+056  Towerbank International Inc.;136  Metrobank, S.A.;1000000
+056  Towerbank International Inc.;136  Metrobank, S.A.;2000000
+056  Towerbank International Inc.;140  Credicorp Bank S.A.;1000000
+056  Towerbank International Inc.;140  Credicorp Bank S.A.;1000000
+056  Towerbank International Inc.;140  Credicorp Bank S.A.;2000000
+056  Towerbank International Inc.;173  MMG Bank Corporation;2000000
+056  Towerbank International Inc.;173  MMG Bank Corporation;1000000
+056  Towerbank International Inc.;182  Banistmo S.A.;31869.04
+056  Towerbank International Inc.;182  Banistmo S.A.;1500000
+056  Towerbank International Inc.;182  Banistmo S.A.;3000000
+056  Towerbank International Inc.;220  Banco Panamá, S.A.;2000000
+056  Towerbank International Inc.;220  Banco Panamá, S.A.;2000000
+056  Towerbank International Inc.;220  Banco Panamá, S.A.;1000000
+056  Towerbank International Inc.;231  Banco Prival, S.A.;1000000
+056  Towerbank International Inc.;E025 BANCO SABADELL                                         ;2402.67
+056  Towerbank International Inc.;E042 CITIBANK                                               ;1358.43
+056  Towerbank International Inc.;E042 CITIBANK                                               ;4695314.07
+056  Towerbank International Inc.;E069 JP MORGAN CHASE ;10582079.55
+056  Towerbank International Inc.;E104 WELLS FARGO                                            ;24878621.52
+056  Towerbank International Inc.;E167 US BANK;2229827.69
+071  Inteligo Bank Ltd.;182  Banistmo S.A.;210721.79
+071  Inteligo Bank Ltd.;182  Banistmo S.A.;52854.8
+"072  ITAÚ (Panamá) S.A.
+";003  Banco General, S.A.;36735.2
+"072  ITAÚ (Panamá) S.A.
+";182  Banistmo S.A.;62713.8
+"072  ITAÚ (Panamá) S.A.
+";E033 BANK OF AMERICA;64211020.91
+"072  ITAÚ (Panamá) S.A.
+";E042 CITIBANK                                               ;581018.05
+"072  ITAÚ (Panamá) S.A.
+";E042 CITIBANK                                               ;3639474.06
+"072  ITAÚ (Panamá) S.A.
+";E052 DEUTSCHE BANK                                          ;1071877.27
+"072  ITAÚ (Panamá) S.A.
+";E069 JP MORGAN CHASE ;82823733.12
+"072  ITAÚ (Panamá) S.A.
+";E089 STANDARD CHARTERED BANK                                ;359083.46
+"072  ITAÚ (Panamá) S.A.
+";E104 WELLS FARGO                                            ;225629.61
+"072  ITAÚ (Panamá) S.A.
+";E147 BANCO DE BOGOTA;10000000
+"072  ITAÚ (Panamá) S.A.
+";E186 BANCO CORPBANCA ;189720.9
+"072  ITAÚ (Panamá) S.A.
+";E186 BANCO CORPBANCA ;15000000
+075  Bancolombia (Panamá), S.A.;A001  Banco Nacional de Panamá;3592719.41
+075  Bancolombia (Panamá), S.A.;A001  Banco Nacional de Panamá;525126.34
+075  Bancolombia (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;15000000
+075  Bancolombia (Panamá), S.A.;182  Banistmo S.A.;676493.8
+075  Bancolombia (Panamá), S.A.;182  Banistmo S.A.;612856.4
+075  Bancolombia (Panamá), S.A.;182  Banistmo S.A.;759440.78
+075  Bancolombia (Panamá), S.A.;243  Bancolombia S.A.;25361935.46
+075  Bancolombia (Panamá), S.A.;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;30000000
+075  Bancolombia (Panamá), S.A.;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;10000000
+075  Bancolombia (Panamá), S.A.;E029 BANCOLOMBIA                                            ;23224000
+075  Bancolombia (Panamá), S.A.;E029 BANCOLOMBIA                                            ;4461200
+075  Bancolombia (Panamá), S.A.;E029 BANCOLOMBIA                                            ;5576500
+075  Bancolombia (Panamá), S.A.;E033 BANK OF AMERICA;8994553.94
+075  Bancolombia (Panamá), S.A.;E035 BARCLAYS BANK P.L.C.                                   ;6049061.85
+075  Bancolombia (Panamá), S.A.;E042 CITIBANK                                               ;72787144.96
+075  Bancolombia (Panamá), S.A.;E052 DEUTSCHE BANK                                          ;8485932.5
+075  Bancolombia (Panamá), S.A.;E069 JP MORGAN CHASE ;11050127.62
+075  Bancolombia (Panamá), S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);30000000
+075  Bancolombia (Panamá), S.A.;E104 WELLS FARGO                                            ;5356004.2
+075  Bancolombia (Panamá), S.A.;E104 WELLS FARGO                                            ;16129504.84
+075  Bancolombia (Panamá), S.A.;E109 CANADIAN IMPERIAL BANK OF COMMERCE;20000000
+075  Bancolombia (Panamá), S.A.;E109 CANADIAN IMPERIAL BANK OF COMMERCE;20000000
+075  Bancolombia (Panamá), S.A.;E133 ZURCHER KANTONALBANK ;20000000
+075  Bancolombia (Panamá), S.A.;E137 LANDESBANK BADEN-WÜRTTEMBERG;50000000
+075  Bancolombia (Panamá), S.A.;E147 BANCO DE BOGOTA;20000000
+075  Bancolombia (Panamá), S.A.;E147 BANCO DE BOGOTA;15000000
+075  Bancolombia (Panamá), S.A.;E147 BANCO DE BOGOTA;15000000
+076  Banco de Bogotá (Panamá), S.A.;003  Banco General, S.A.;723.1
+076  Banco de Bogotá (Panamá), S.A.;247  Banco de Bogotá, S.A.;343709.24
+076  Banco de Bogotá (Panamá), S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;40000000
+076  Banco de Bogotá (Panamá), S.A.;E033 BANK OF AMERICA;95020316.41
+076  Banco de Bogotá (Panamá), S.A.;E042 CITIBANK                                               ;270878214.7
+076  Banco de Bogotá (Panamá), S.A.;E042 CITIBANK                                               ;1197179.77
+076  Banco de Bogotá (Panamá), S.A.;E042 CITIBANK                                               ;99757.06
+076  Banco de Bogotá (Panamá), S.A.;E042 CITIBANK                                               ;560275.6
+076  Banco de Bogotá (Panamá), S.A.;E052 DEUTSCHE BANK                                          ;243549.9
+076  Banco de Bogotá (Panamá), S.A.;E069 JP MORGAN CHASE ;225253858.3
+076  Banco de Bogotá (Panamá), S.A.;E069 JP MORGAN CHASE ;100038.89
+076  Banco de Bogotá (Panamá), S.A.;E069 JP MORGAN CHASE ;3286867.55
+076  Banco de Bogotá (Panamá), S.A.;E069 JP MORGAN CHASE ;542719.64
+076  Banco de Bogotá (Panamá), S.A.;E104 WELLS FARGO                                            ;101728.5
+076  Banco de Bogotá (Panamá), S.A.;E104 WELLS FARGO                                            ;383709014.1
+076  Banco de Bogotá (Panamá), S.A.;E147 BANCO DE BOGOTA;1527316.92
+076  Banco de Bogotá (Panamá), S.A.;E147 BANCO DE BOGOTA;448768919.7
+076  Banco de Bogotá (Panamá), S.A.;E147 BANCO DE BOGOTA;301004367.8
+076  Banco de Bogotá (Panamá), S.A.;E147 BANCO DE BOGOTA;581409094.1
+076  Banco de Bogotá (Panamá), S.A.;E240 SOUTH AMERICAN INTERNATIONAL BANK;11000000
+"079  GNB Sudameris Bank S.A.
+";A001  Banco Nacional de Panamá;509506.07
+"079  GNB Sudameris Bank S.A.
+";A001  Banco Nacional de Panamá;264895.66
+"079  GNB Sudameris Bank S.A.
+";E042 CITIBANK                                               ;540633.44
+"079  GNB Sudameris Bank S.A.
+";E042 CITIBANK                                               ;100000
+"079  GNB Sudameris Bank S.A.
+";E042 CITIBANK                                               ;19842352.13
+"079  GNB Sudameris Bank S.A.
+";E043 CLEARSTREAM BANKING                                    ;4461.43
+"079  GNB Sudameris Bank S.A.
+";E089 STANDARD CHARTERED BANK                                ;100000
+"079  GNB Sudameris Bank S.A.
+";E089 STANDARD CHARTERED BANK                                ;33855976.27
+"079  GNB Sudameris Bank S.A.
+";E101 UBS                                                    ;12500000
+"079  GNB Sudameris Bank S.A.
+";E101 UBS                                                    ;128021988
+"079  GNB Sudameris Bank S.A.
+";E101 UBS                                                    ;260947065.4
+"079  GNB Sudameris Bank S.A.
+";E172 GRUPO BANCARIO IF;10793.09
+087  Banco de la Nación Argentina;A001  Banco Nacional de Panamá;5263.67
+087  Banco de la Nación Argentina;182  Banistmo S.A.;97590.89
+087  Banco de la Nación Argentina;E136 BANCO DE LA NACIÓN ARGENTINA ;13741318.35
+"093  GTC Bank Inc.
+";A001  Banco Nacional de Panamá;1786710.32
+"093  GTC Bank Inc.
+";155  BAC International Bank, Inc.;134724.05
+"093  GTC Bank Inc.
+";182  Banistmo S.A.;5135981.39
+"093  GTC Bank Inc.
+";E005 BAC                                                    ;44959.11
+"093  GTC Bank Inc.
+";E026 BANCO SANTANDER CENTRAL HISPANO                        ;1319580.45
+"093  GTC Bank Inc.
+";E033 BANK OF AMERICA;10511078.1
+"093  GTC Bank Inc.
+";E048 CREDIT SUISSE                                          ;44.74
+"093  GTC Bank Inc.
+";E085 SAFRA BANK;2080005.51
+108  Banco de Occidente (Panamá), S.A.;A001  Banco Nacional de Panamá;200502.21
+108  Banco de Occidente (Panamá), S.A.;A001  Banco Nacional de Panamá;1037791.61
+108  Banco de Occidente (Panamá), S.A.;003  Banco General, S.A.;5282.8
+108  Banco de Occidente (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;5071.52
+108  Banco de Occidente (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;16800
+108  Banco de Occidente (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;13509.53
+108  Banco de Occidente (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;9780.82
+108  Banco de Occidente (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;32295.83
+108  Banco de Occidente (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;36030.59
+108  Banco de Occidente (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;41659.56
+108  Banco de Occidente (Panamá), S.A.;155  BAC International Bank, Inc.;56098.99
+108  Banco de Occidente (Panamá), S.A.;179  Scotiabank (Panamá), S.A.;4591.76
+108  Banco de Occidente (Panamá), S.A.;182  Banistmo S.A.;1054214.07
+108  Banco de Occidente (Panamá), S.A.;182  Banistmo S.A.;10000000
+108  Banco de Occidente (Panamá), S.A.;235  Banco La Hipotecaria, S. A.;2500000
+108  Banco de Occidente (Panamá), S.A.;E005 BAC                                                    ;5000000
+108  Banco de Occidente (Panamá), S.A.;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;5000000
+108  Banco de Occidente (Panamá), S.A.;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;10000000
+108  Banco de Occidente (Panamá), S.A.;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;2900000
+108  Banco de Occidente (Panamá), S.A.;E025 BANCO SABADELL                                         ;4000000
+108  Banco de Occidente (Panamá), S.A.;E042 CITIBANK                                               ;249892.19
+108  Banco de Occidente (Panamá), S.A.;E042 CITIBANK                                               ;17236395.33
+108  Banco de Occidente (Panamá), S.A.;E043 CLEARSTREAM BANKING                                    ;4295.59
+108  Banco de Occidente (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5000000
+108  Banco de Occidente (Panamá), S.A.;E089 STANDARD CHARTERED BANK                                ;1360256.77
+108  Banco de Occidente (Panamá), S.A.;E104 WELLS FARGO                                            ;643289.78
+108  Banco de Occidente (Panamá), S.A.;E104 WELLS FARGO                                            ;2465784.12
+108  Banco de Occidente (Panamá), S.A.;E104 WELLS FARGO                                            ;231.35
+108  Banco de Occidente (Panamá), S.A.;E104 WELLS FARGO                                            ;417435.28
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";1600000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";28000000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";5556202
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";3138035
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";50000000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";10000000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";20000000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";40000000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";25000000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";3927936
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";6100000
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";8916030
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";10052050
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";2365001
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";1909090.91
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";8321426
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";1329304
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";11023730
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";10664863
+108  Banco de Occidente (Panamá), S.A.;"E151 BANCO DE OCCIDENTE
+";5000000
+108  Banco de Occidente (Panamá), S.A.;E999 OTRAS ENTIDADES BANCARIAS;3000000
+"111  Popular Bank Ltd. Inc.
+";003  Banco General, S.A.;600000
+"111  Popular Bank Ltd. Inc.
+";027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;20000000
+"111  Popular Bank Ltd. Inc.
+";027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;20000000
+"111  Popular Bank Ltd. Inc.
+";E033 BANK OF AMERICA;403136.04
+"111  Popular Bank Ltd. Inc.
+";E033 BANK OF AMERICA;274095.5
+"111  Popular Bank Ltd. Inc.
+";E033 BANK OF AMERICA;783386.14
+"111  Popular Bank Ltd. Inc.
+";E033 BANK OF AMERICA;1960000
+"111  Popular Bank Ltd. Inc.
+";E033 BANK OF AMERICA;264479.81
+"111  Popular Bank Ltd. Inc.
+";E033 BANK OF AMERICA;21164131.3
+"111  Popular Bank Ltd. Inc.
+";E042 CITIBANK                                               ;17165326.38
+"111  Popular Bank Ltd. Inc.
+";E069 JP MORGAN CHASE ;13582612.7
+"111  Popular Bank Ltd. Inc.
+";E069 JP MORGAN CHASE ;5077966.69
+"111  Popular Bank Ltd. Inc.
+";E094 THE BANK OF NEW YORK                                   ;12023622.86
+"111  Popular Bank Ltd. Inc.
+";E104 WELLS FARGO                                            ;5054495.3
+"111  Popular Bank Ltd. Inc.
+";E104 WELLS FARGO                                            ;94948449.38
+"111  Popular Bank Ltd. Inc.
+";E104 WELLS FARGO                                            ;11838220.96
+"111  Popular Bank Ltd. Inc.
+";E104 WELLS FARGO                                            ;12518368.15
+117  Bank of China Limited;A001  Banco Nacional de Panamá;6062982.72
+117  Bank of China Limited;A001  Banco Nacional de Panamá;16050037.73
+117  Bank of China Limited;A001  Banco Nacional de Panamá;0
+117  Bank of China Limited;003  Banco General, S.A.;0
+117  Bank of China Limited;182  Banistmo S.A.;431152.77
+117  Bank of China Limited;182  Banistmo S.A.;40000000
+117  Bank of China Limited;E034 BANK OF CHINA ;12105755.23
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;41915440.27
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;1345627.15
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;0
+117  Bank of China Limited;E034 BANK OF CHINA ;36554383.08
+119  Banco de Crédito del Perú;003  Banco General, S.A.;14859.78
+119  Banco de Crédito del Perú;075  Bancolombia (Panamá), S.A.;12000000
+119  Banco de Crédito del Perú;075  Bancolombia (Panamá), S.A.;5000000
+119  Banco de Crédito del Perú;108  Banco de Occidente (Panamá), S.A.;5000000
+119  Banco de Crédito del Perú;182  Banistmo S.A.;5000000
+119  Banco de Crédito del Perú;182  Banistmo S.A.;10000000
+119  Banco de Crédito del Perú;182  Banistmo S.A.;10000000
+119  Banco de Crédito del Perú;E003 AMERICAN EXPRESS BANK;332.01
+119  Banco de Crédito del Perú;E033 BANK OF AMERICA;4867457.54
+119  Banco de Crédito del Perú;E104 WELLS FARGO                                            ;2918250.07
+119  Banco de Crédito del Perú;E162 ATLANTIC SECURITY BANK ;574869.2
+119  Banco de Crédito del Perú;E176 BANCO DE CREDITO DEL PERU;1045.83
+119  Banco de Crédito del Perú;E176 BANCO DE CREDITO DEL PERU;5.01
+119  Banco de Crédito del Perú;E176 BANCO DE CREDITO DEL PERU;318000000
+127  Atlantic Security Bank;A001  Banco Nacional de Panamá;4346.4
+127  Atlantic Security Bank;003  Banco General, S.A.;475723.42
+127  Atlantic Security Bank;182  Banistmo S.A.;295979
+127  Atlantic Security Bank;E162 ATLANTIC SECURITY BANK ;6575826.75
+135    Multibank Inc.;A001  Banco Nacional de Panamá;2249733
+135    Multibank Inc.;A001  Banco Nacional de Panamá;500000
+135    Multibank Inc.;A001  Banco Nacional de Panamá;500000
+135    Multibank Inc.;050  Banco Aliado S.A.;1000000
+135    Multibank Inc.;050  Banco Aliado S.A.;1000000
+135    Multibank Inc.;050  Banco Aliado S.A.;1000000
+135    Multibank Inc.;173  MMG Bank Corporation;1433.2
+135    Multibank Inc.;E005 BAC                                                    ;462574.11
+135    Multibank Inc.;E017 BANCO DEL  ESTADO DE CHILE                             ;5000000
+135    Multibank Inc.;E025 BANCO SABADELL                                         ;4309253.89
+135    Multibank Inc.;E026 BANCO SANTANDER CENTRAL HISPANO                        ;4273964.15
+135    Multibank Inc.;E033 BANK OF AMERICA;12043265.1
+135    Multibank Inc.;E033 BANK OF AMERICA;5000000
+135    Multibank Inc.;E033 BANK OF AMERICA;5000000
+135    Multibank Inc.;E033 BANK OF AMERICA;5000000
+135    Multibank Inc.;E033 BANK OF AMERICA;5000000
+135    Multibank Inc.;E034 BANK OF CHINA ;7182.34
+135    Multibank Inc.;E035 BARCLAYS BANK P.L.C.                                   ;2967616.24
+135    Multibank Inc.;E045 COMMERZBANK                                            ;15000000
+135    Multibank Inc.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5000000
+135    Multibank Inc.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5000000
+135    Multibank Inc.;E048 CREDIT SUISSE                                          ;1832570.96
+135    Multibank Inc.;E048 CREDIT SUISSE                                          ;72043.3
+135    Multibank Inc.;E048 CREDIT SUISSE                                          ;3237088.57
+135    Multibank Inc.;E048 CREDIT SUISSE                                          ;2561496.33
+135    Multibank Inc.;E057 EFG BANK                                               ;388522.4
+135    Multibank Inc.;E057 EFG BANK                                               ;111705.22
+135    Multibank Inc.;E057 EFG BANK                                               ;530460.68
+135    Multibank Inc.;E063 GOLDMAN SACHS ;2057631.31
+135    Multibank Inc.;E077 MIZUHO CORPORATE BANK                                  ;10000000
+135    Multibank Inc.;E078 MORGAN STANLEY                                         ;23612.82
+135    Multibank Inc.;E078 MORGAN STANLEY                                         ;121258.37
+135    Multibank Inc.;E089 STANDARD CHARTERED BANK                                ;7174.61
+135    Multibank Inc.;E089 STANDARD CHARTERED BANK                                ;9926.04
+135    Multibank Inc.;E089 STANDARD CHARTERED BANK                                ;1646161.01
+135    Multibank Inc.;E090 SUMITOMO MITSUI BANKING                                ;10368.06
+135    Multibank Inc.;E090 SUMITOMO MITSUI BANKING                                ;10000000
+135    Multibank Inc.;E093 THE BANK OF MONTREAL                                   ;596372.38
+135    Multibank Inc.;E094 THE BANK OF NEW YORK                                   ;636410.41
+135    Multibank Inc.;E094 THE BANK OF NEW YORK                                   ;744841.49
+135    Multibank Inc.;E094 THE BANK OF NEW YORK                                   ;1047831.22
+135    Multibank Inc.;E094 THE BANK OF NEW YORK                                   ;24739053.24
+135    Multibank Inc.;E101 UBS                                                    ;2373.18
+135    Multibank Inc.;E101 UBS                                                    ;5131.42
+135    Multibank Inc.;E101 UBS                                                    ;31423.36
+135    Multibank Inc.;E101 UBS                                                    ;112718.43
+135    Multibank Inc.;E101 UBS                                                    ;1182046.74
+135    Multibank Inc.;E101 UBS                                                    ;3017744.51
+135    Multibank Inc.;E101 UBS                                                    ;6013951.86
+135    Multibank Inc.;E110 NATIONAL BANK OF CANADA;126831.92
+135    Multibank Inc.;E110 NATIONAL BANK OF CANADA;488115.74
+135    Multibank Inc.;E137 LANDESBANK BADEN-WÜRTTEMBERG;1140167
+135    Multibank Inc.;E137 LANDESBANK BADEN-WÜRTTEMBERG;7000000
+135    Multibank Inc.;E137 LANDESBANK BADEN-WÜRTTEMBERG;5000000
+135    Multibank Inc.;E192 CHINA CONSTRUCTION BANK;5000000
+135    Multibank Inc.;E192 CHINA CONSTRUCTION BANK;10000000
+135    Multibank Inc.;E235 BANCO INBURSA, S.A.;12247.9
+135    Multibank Inc.;E236 MULTIBANK CAYMAN, INC.;10000000
+135    Multibank Inc.;E236 MULTIBANK CAYMAN, INC.;5500000
+136  Metrobank, S.A.;A001  Banco Nacional de Panamá;10131760.67
+136  Metrobank, S.A.;A001  Banco Nacional de Panamá;513780.67
+136  Metrobank, S.A.;002  Caja de Ahorros;1000000
+136  Metrobank, S.A.;002  Caja de Ahorros;2500000
+136  Metrobank, S.A.;003  Banco General, S.A.;109759.77
+136  Metrobank, S.A.;003  Banco General, S.A.;155556.36
+136  Metrobank, S.A.;003  Banco General, S.A.;2000000
+136  Metrobank, S.A.;003  Banco General, S.A.;3000000
+136  Metrobank, S.A.;024  Banco Internacional de Costa Rica, S.A.;2500000
+136  Metrobank, S.A.;024  Banco Internacional de Costa Rica, S.A.;2000000
+136  Metrobank, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;1000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;1000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;2000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;2000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;2000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;1000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;2000000
+136  Metrobank, S.A.;050  Banco Aliado S.A.;1000000
+136  Metrobank, S.A.;056  Towerbank International Inc.;2000000
+136  Metrobank, S.A.;056  Towerbank International Inc.;1000000
+136  Metrobank, S.A.;182  Banistmo S.A.;81356.15
+136  Metrobank, S.A.;231  Banco Prival, S.A.;1000000
+136  Metrobank, S.A.;231  Banco Prival, S.A.;1000000
+136  Metrobank, S.A.;E042 CITIBANK                                               ;424953.29
+136  Metrobank, S.A.;E042 CITIBANK                                               ;5665512.32
+136  Metrobank, S.A.;E052 DEUTSCHE BANK                                          ;14537483.08
+136  Metrobank, S.A.;E094 THE BANK OF NEW YORK                                   ;33326481.24
+136  Metrobank, S.A.;E094 THE BANK OF NEW YORK                                   ;145621.19
+136  Metrobank, S.A.;E094 THE BANK OF NEW YORK                                   ;9150000
+140  Credicorp Bank S.A.;A001  Banco Nacional de Panamá;12627599.23
+140  Credicorp Bank S.A.;A001  Banco Nacional de Panamá;2066816.67
+140  Credicorp Bank S.A.;002  Caja de Ahorros;2000000
+140  Credicorp Bank S.A.;002  Caja de Ahorros;1500000
+140  Credicorp Bank S.A.;002  Caja de Ahorros;1500000
+140  Credicorp Bank S.A.;024  Banco Internacional de Costa Rica, S.A.;1500000
+140  Credicorp Bank S.A.;024  Banco Internacional de Costa Rica, S.A.;1500000
+140  Credicorp Bank S.A.;050  Banco Aliado S.A.;2000000
+140  Credicorp Bank S.A.;050  Banco Aliado S.A.;2000000
+140  Credicorp Bank S.A.;050  Banco Aliado S.A.;1000000
+140  Credicorp Bank S.A.;056  Towerbank International Inc.;2000000
+140  Credicorp Bank S.A.;056  Towerbank International Inc.;1000000
+140  Credicorp Bank S.A.;056  Towerbank International Inc.;1000000
+140  Credicorp Bank S.A.;117  Bank of China Limited;284823.68
+140  Credicorp Bank S.A.;117  Bank of China Limited;324279.65
+140  Credicorp Bank S.A.;173  MMG Bank Corporation;2000000
+140  Credicorp Bank S.A.;182  Banistmo S.A.;2954043.31
+140  Credicorp Bank S.A.;196  Banco Delta, S.A.;1000000
+140  Credicorp Bank S.A.;201  Banesco (Panamá), S.A.;3000000
+140  Credicorp Bank S.A.;220  Banco Panamá, S.A.;1000000
+140  Credicorp Bank S.A.;220  Banco Panamá, S.A.;1000000
+140  Credicorp Bank S.A.;220  Banco Panamá, S.A.;1000000
+140  Credicorp Bank S.A.;220  Banco Panamá, S.A.;1000000
+140  Credicorp Bank S.A.;231  Banco Prival, S.A.;1000000
+140  Credicorp Bank S.A.;231  Banco Prival, S.A.;1000000
+140  Credicorp Bank S.A.;236  Unibank, S.A.;1000000
+140  Credicorp Bank S.A.;E005 BAC                                                    ;3500000
+140  Credicorp Bank S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;2000000
+140  Credicorp Bank S.A.;E033 BANK OF AMERICA;819679.09
+140  Credicorp Bank S.A.;E033 BANK OF AMERICA;2881745.74
+140  Credicorp Bank S.A.;E033 BANK OF AMERICA;6420801.75
+140  Credicorp Bank S.A.;E041 CAJA DE AHORROS DE GALICIA  (CAIXA GALICIA)            ;668397.81
+140  Credicorp Bank S.A.;E042 CITIBANK                                               ;44496.17
+140  Credicorp Bank S.A.;E042 CITIBANK                                               ;3868261.68
+140  Credicorp Bank S.A.;E042 CITIBANK                                               ;3247251.47
+140  Credicorp Bank S.A.;E042 CITIBANK                                               ;12561527.04
+140  Credicorp Bank S.A.;E069 JP MORGAN CHASE ;27073668.11
+140  Credicorp Bank S.A.;E076 MERRILL LYNCH                                          ;9242940.09
+140  Credicorp Bank S.A.;E076 MERRILL LYNCH                                          ;3431.55
+140  Credicorp Bank S.A.;E096 THE BANK OF NOVA SCOTIA (SCOTIABANK)                   ;34034448.14
+140  Credicorp Bank S.A.;E098 THE ROYAL BANK OF CANADA                               ;526152.97
+140  Credicorp Bank S.A.;E098 THE ROYAL BANK OF CANADA                               ;4524935.76
+140  Credicorp Bank S.A.;E098 THE ROYAL BANK OF CANADA                               ;8382869
+140  Credicorp Bank S.A.;E098 THE ROYAL BANK OF CANADA                               ;1524158
+140  Credicorp Bank S.A.;E104 WELLS FARGO                                            ;2787751.17
+140  Credicorp Bank S.A.;E104 WELLS FARGO                                            ;24093432.41
+140  Credicorp Bank S.A.;E104 WELLS FARGO                                            ;8790328.59
+140  Credicorp Bank S.A.;E229 BANKINTER;916978.89
+140  Credicorp Bank S.A.;E231 UBI BANCA  Unione di Banche Italiane ;507802.24
+148  Global Bank Corporation;A001  Banco Nacional de Panamá;3999268.82
+148  Global Bank Corporation;002  Caja de Ahorros;5000000
+148  Global Bank Corporation;003  Banco General, S.A.;458957.43
+148  Global Bank Corporation;003  Banco General, S.A.;203.07
+148  Global Bank Corporation;003  Banco General, S.A.;645.63
+148  Global Bank Corporation;024  Banco Internacional de Costa Rica, S.A.;2000000
+148  Global Bank Corporation;024  Banco Internacional de Costa Rica, S.A.;5000000
+148  Global Bank Corporation;024  Banco Internacional de Costa Rica, S.A.;4000000
+148  Global Bank Corporation;024  Banco Internacional de Costa Rica, S.A.;4000000
+148  Global Bank Corporation;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+148  Global Bank Corporation;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+148  Global Bank Corporation;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;10000000
+148  Global Bank Corporation;045  The Bank Of Nova Scotia;2399409.38
+148  Global Bank Corporation;045  The Bank Of Nova Scotia;10000000
+148  Global Bank Corporation;045  The Bank Of Nova Scotia;5000000
+148  Global Bank Corporation;045  The Bank Of Nova Scotia;10000000
+148  Global Bank Corporation;050  Banco Aliado S.A.;24370000
+148  Global Bank Corporation;056  Towerbank International Inc.;5000000
+148  Global Bank Corporation;056  Towerbank International Inc.;5000000
+148  Global Bank Corporation;140  Credicorp Bank S.A.;5000000
+148  Global Bank Corporation;173  MMG Bank Corporation;273.36
+148  Global Bank Corporation;182  Banistmo S.A.;100017.56
+148  Global Bank Corporation;182  Banistmo S.A.;1529181.88
+148  Global Bank Corporation;182  Banistmo S.A.;10000000
+148  Global Bank Corporation;182  Banistmo S.A.;5000000
+148  Global Bank Corporation;201  Banesco (Panamá), S.A.;2000000
+148  Global Bank Corporation;231  Banco Prival, S.A.;5000000
+148  Global Bank Corporation;233  Banco Lafise Panamá S.A.;5000000
+148  Global Bank Corporation;A001  Banco Nacional de Panamá;46988387.22
+148  Global Bank Corporation;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+148  Global Bank Corporation;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+148  Global Bank Corporation;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+148  Global Bank Corporation;E014 BANCO DE CREDITO E INVERSIONES                         ;10000000
+148  Global Bank Corporation;E014 BANCO DE CREDITO E INVERSIONES                         ;5000000
+148  Global Bank Corporation;E014 BANCO DE CREDITO E INVERSIONES                         ;4991911.11
+148  Global Bank Corporation;E034 BANK OF CHINA ;4992788.19
+148  Global Bank Corporation;E042 CITIBANK                                               ;53300802.09
+148  Global Bank Corporation;E042 CITIBANK                                               ;542724.68
+148  Global Bank Corporation;E042 CITIBANK                                               ;1092.13
+148  Global Bank Corporation;E052 DEUTSCHE BANK                                          ;3807956.16
+148  Global Bank Corporation;E052 DEUTSCHE BANK                                          ;10026116.97
+148  Global Bank Corporation;E052 DEUTSCHE BANK                                          ;6914177.99
+148  Global Bank Corporation;E052 DEUTSCHE BANK                                          ;2786147.29
+148  Global Bank Corporation;E052 DEUTSCHE BANK                                          ;5577814.76
+148  Global Bank Corporation;E057 EFG BANK                                               ;3111101.72
+148  Global Bank Corporation;E062 GLOBAL BANK OVERSEAS LIMITED                           ;25000000
+148  Global Bank Corporation;E062 GLOBAL BANK OVERSEAS LIMITED                           ;30000000
+148  Global Bank Corporation;E062 GLOBAL BANK OVERSEAS LIMITED                           ;9500000
+148  Global Bank Corporation;E062 GLOBAL BANK OVERSEAS LIMITED                           ;25000000
+148  Global Bank Corporation;E062 GLOBAL BANK OVERSEAS LIMITED                           ;10000000
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;52138516.38
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;384717.43
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;533169.46
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;4148356.48
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;948.26
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;301109.07
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;8788.81
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;337.6
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;6299.69
+148  Global Bank Corporation;E069 JP MORGAN CHASE ;3127.34
+148  Global Bank Corporation;E078 MORGAN STANLEY                                         ;22533080.75
+148  Global Bank Corporation;E090 SUMITOMO MITSUI BANKING                                ;10000000
+148  Global Bank Corporation;E090 SUMITOMO MITSUI BANKING                                ;5000000
+148  Global Bank Corporation;E090 SUMITOMO MITSUI BANKING                                ;10000000
+148  Global Bank Corporation;E093 THE BANK OF MONTREAL                                   ;10000000
+148  Global Bank Corporation;E101 UBS                                                    ;7296982.4
+148  Global Bank Corporation;E176 BANCO DE CREDITO DEL PERU;5000000
+148  Global Bank Corporation;E245 CHINA DEVELOPMENT BANK;43.57
+148  Global Bank Corporation;E999 OTRAS ENTIDADES BANCARIAS;10000000
+153  Austrobank Overseas (Panamá), S.A.;A001  Banco Nacional de Panamá;4872773.09
+153  Austrobank Overseas (Panamá), S.A.;A001  Banco Nacional de Panamá;15977293.42
+153  Austrobank Overseas (Panamá), S.A.;039  Keb Hana Bank;2441085.84
+153  Austrobank Overseas (Panamá), S.A.;039  Keb Hana Bank;5168553.63
+153  Austrobank Overseas (Panamá), S.A.;140  Credicorp Bank S.A.;2088589.65
+153  Austrobank Overseas (Panamá), S.A.;245  Pacific Bank, S.A.;2393067.19
+153  Austrobank Overseas (Panamá), S.A.;249  Canal Bank S.A.;2999974.65
+153  Austrobank Overseas (Panamá), S.A.;E057 EFG BANK                                               ;166253.94
+155  BAC International Bank, Inc.;A001  Banco Nacional de Panamá;20822008.89
+155  BAC International Bank, Inc.;A001  Banco Nacional de Panamá;40397227.96
+155  BAC International Bank, Inc.;A001  Banco Nacional de Panamá;6800000
+155  BAC International Bank, Inc.;E005 BAC                                                    ;16618385.57
+155  BAC International Bank, Inc.;E005 BAC                                                    ;3418606.11
+155  BAC International Bank, Inc.;E005 BAC                                                    ;45256.79
+155  BAC International Bank, Inc.;E005 BAC                                                    ;5000000
+155  BAC International Bank, Inc.;E005 BAC                                                    ;20000000
+155  BAC International Bank, Inc.;E005 BAC                                                    ;30000000
+155  BAC International Bank, Inc.;E005 BAC                                                    ;20000000
+155  BAC International Bank, Inc.;E008 BANCO BILBAO VIZCAYA ARGENTARIA                        ;8236065.99
+155  BAC International Bank, Inc.;E033 BANK OF AMERICA;5562757.67
+155  BAC International Bank, Inc.;E042 CITIBANK                                               ;28818133
+155  BAC International Bank, Inc.;E042 CITIBANK                                               ;30000000
+155  BAC International Bank, Inc.;E052 DEUTSCHE BANK                                          ;4399148.78
+155  BAC International Bank, Inc.;E069 JP MORGAN CHASE ;2148359.13
+155  BAC International Bank, Inc.;E089 STANDARD CHARTERED BANK                                ;430648.53
+155  BAC International Bank, Inc.;E089 STANDARD CHARTERED BANK                                ;5433538.7
+155  BAC International Bank, Inc.;E104 WELLS FARGO                                            ;13926900.4
+173  MMG Bank Corporation;A001  Banco Nacional de Panamá;28589135.77
+173  MMG Bank Corporation;A001  Banco Nacional de Panamá;523433.91
+173  MMG Bank Corporation;A001  Banco Nacional de Panamá;173472.47
+173  MMG Bank Corporation;A001  Banco Nacional de Panamá;500000
+173  MMG Bank Corporation;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;6981800
+173  MMG Bank Corporation;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;4984000
+173  MMG Bank Corporation;148  Global Bank Corporation;69034.84
+173  MMG Bank Corporation;148  Global Bank Corporation;250000
+173  MMG Bank Corporation;182  Banistmo S.A.;1360040.12
+173  MMG Bank Corporation;182  Banistmo S.A.;104112.89
+173  MMG Bank Corporation;246  Banco Ficohsa (Panamá), S. A.;2000000
+173  MMG Bank Corporation;E034 BANK OF CHINA ;4935500
+173  MMG Bank Corporation;E057 EFG BANK                                               ;2562.21
+173  MMG Bank Corporation;E101 UBS                                                    ;92313.75
+174  BAC  Bank, Inc.;155  BAC International Bank, Inc.;2559870.63
+174  BAC  Bank, Inc.;E005 BAC                                                    ;144009990.8
+174  BAC  Bank, Inc.;E005 BAC                                                    ;100000000
+174  BAC  Bank, Inc.;E005 BAC                                                    ;100000000
+174  BAC  Bank, Inc.;E042 CITIBANK                                               ;250000
+174  BAC  Bank, Inc.;E042 CITIBANK                                               ;725741.76
+179  Scotiabank (Panamá), S.A.;045  The Bank Of Nova Scotia;3302830.6
+179  Scotiabank (Panamá), S.A.;045  The Bank Of Nova Scotia;9054091.61
+179  Scotiabank (Panamá), S.A.;045  The Bank Of Nova Scotia;9177731.11
+179  Scotiabank (Panamá), S.A.;045  The Bank Of Nova Scotia;9090018.61
+179  Scotiabank (Panamá), S.A.;045  The Bank Of Nova Scotia;9030500
+179  Scotiabank (Panamá), S.A.;045  The Bank Of Nova Scotia;9030500
+179  Scotiabank (Panamá), S.A.;045  The Bank Of Nova Scotia;9030500
+182  Banistmo S.A.;A001  Banco Nacional de Panamá;72823837.44
+182  Banistmo S.A.;A001  Banco Nacional de Panamá;3971162.42
+182  Banistmo S.A.;A001  Banco Nacional de Panamá;3000000
+182  Banistmo S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;20000000
+182  Banistmo S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;20000000
+182  Banistmo S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;25000000
+182  Banistmo S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;25000000
+182  Banistmo S.A.;050  Banco Aliado S.A.;3000000
+182  Banistmo S.A.;050  Banco Aliado S.A.;3000000
+182  Banistmo S.A.;050  Banco Aliado S.A.;3000000
+182  Banistmo S.A.;050  Banco Aliado S.A.;3000000
+182  Banistmo S.A.;056  Towerbank International Inc.;7000000
+182  Banistmo S.A.;136  Metrobank, S.A.;5000000
+182  Banistmo S.A.;140  Credicorp Bank S.A.;1000000
+182  Banistmo S.A.;140  Credicorp Bank S.A.;4000000
+182  Banistmo S.A.;201  Banesco (Panamá), S.A.;10000000
+182  Banistmo S.A.;231  Banco Prival, S.A.;3000000
+182  Banistmo S.A.;237  The Bank of Nova Scotia (Panamá), S.A.;10000000
+182  Banistmo S.A.;237  The Bank of Nova Scotia (Panamá), S.A.;10000000
+182  Banistmo S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;10000000
+182  Banistmo S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;10000000
+182  Banistmo S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;10000000
+182  Banistmo S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;10000000
+182  Banistmo S.A.;E033 BANK OF AMERICA;2474098.51
+182  Banistmo S.A.;E033 BANK OF AMERICA;54131411.62
+182  Banistmo S.A.;E042 CITIBANK                                               ;122951937.3
+182  Banistmo S.A.;E042 CITIBANK                                               ;25000000
+182  Banistmo S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;10000000
+182  Banistmo S.A.;E052 DEUTSCHE BANK                                          ;29986172.65
+182  Banistmo S.A.;E052 DEUTSCHE BANK                                          ;35889270.49
+182  Banistmo S.A.;E089 STANDARD CHARTERED BANK                                ;25467081.94
+182  Banistmo S.A.;E094 THE BANK OF NEW YORK                                   ;3628213.81
+182  Banistmo S.A.;E094 THE BANK OF NEW YORK                                   ;469036.26
+182  Banistmo S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);7798.5
+182  Banistmo S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);1721.86
+182  Banistmo S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);1059707.19
+182  Banistmo S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);107.96
+182  Banistmo S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);1345.11
+182  Banistmo S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);40000000
+182  Banistmo S.A.;E097 MUFG BANK LTD  (antes THE BANK OF TOKYO MITSUBISHI);35000000
+182  Banistmo S.A.;E101 UBS                                                    ;524981.88
+182  Banistmo S.A.;E104 WELLS FARGO                                            ;1987237.37
+182  Banistmo S.A.;E104 WELLS FARGO                                            ;969182.89
+182  Banistmo S.A.;E123 BANCO NACIONAL DE MÉXICO, S.A. (BANAMEX);982021.84
+182  Banistmo S.A.;E137 LANDESBANK BADEN-WÜRTTEMBERG;40000000
+182  Banistmo S.A.;E137 LANDESBANK BADEN-WÜRTTEMBERG;30000000
+185  St. Georges Bank & Company, Inc.;A001  Banco Nacional de Panamá;3666937.68
+185  St. Georges Bank & Company, Inc.;A001  Banco Nacional de Panamá;14985521.99
+185  St. Georges Bank & Company, Inc.;E033 BANK OF AMERICA;18872236.73
+185  St. Georges Bank & Company, Inc.;E042 CITIBANK                                               ;47231217.51
+185  St. Georges Bank & Company, Inc.;E069 JP MORGAN CHASE ;4010950
+185  St. Georges Bank & Company, Inc.;E089 STANDARD CHARTERED BANK                                ;512414.17
+185  St. Georges Bank & Company, Inc.;E089 STANDARD CHARTERED BANK                                ;3457230.87
+185  St. Georges Bank & Company, Inc.;E112 PNC BANK N.A.;436282.7
+186  Banco Azteca (Panamá), S.A.;A001  Banco Nacional de Panamá;1226241
+186  Banco Azteca (Panamá), S.A.;A001  Banco Nacional de Panamá;438689.3
+186  Banco Azteca (Panamá), S.A.;A001  Banco Nacional de Panamá;394721.45
+186  Banco Azteca (Panamá), S.A.;A001  Banco Nacional de Panamá;1200000
+186  Banco Azteca (Panamá), S.A.;148  Global Bank Corporation;311186.18
+191  TAG Bank S.A.;210  Capital Bank Inc.;260109.29
+191  TAG Bank S.A.;E165 BRADESCO;558532.33
+191  TAG Bank S.A.;E208 BTG Pactual;146581.07
+195  Banco Pichincha Panamá, S. A.;A001  Banco Nacional de Panamá;9277396.19
+195  Banco Pichincha Panamá, S. A.;003  Banco General, S.A.;164329.31
+195  Banco Pichincha Panamá, S. A.;182  Banistmo S.A.;505257.3
+195  Banco Pichincha Panamá, S. A.;182  Banistmo S.A.;4300000
+195  Banco Pichincha Panamá, S. A.;185  St. Georges Bank & Company, Inc.;62459.38
+195  Banco Pichincha Panamá, S. A.;E024 BANCO PICHINCHA                                        ;10300000
+195  Banco Pichincha Panamá, S. A.;E042 CITIBANK                                               ;30905899.98
+195  Banco Pichincha Panamá, S. A.;E048 CREDIT SUISSE                                          ;12080806
+195  Banco Pichincha Panamá, S. A.;E078 MORGAN STANLEY                                         ;16.61
+195  Banco Pichincha Panamá, S. A.;E087 SMITH BARNEY                                           ;12028.44
+195  Banco Pichincha Panamá, S. A.;E101 UBS                                                    ;35538480.78
+195  Banco Pichincha Panamá, S. A.;E197 Diners Club;1000000
+196  Banco Delta, S.A.;A001  Banco Nacional de Panamá;777589.32
+196  Banco Delta, S.A.;A001  Banco Nacional de Panamá;365133.12
+196  Banco Delta, S.A.;A001  Banco Nacional de Panamá;2550482.65
+196  Banco Delta, S.A.;003  Banco General, S.A.;446978.7
+196  Banco Delta, S.A.;003  Banco General, S.A.;78588.74
+196  Banco Delta, S.A.;003  Banco General, S.A.;3427000
+196  Banco Delta, S.A.;024  Banco Internacional de Costa Rica, S.A.;6035.54
+196  Banco Delta, S.A.;024  Banco Internacional de Costa Rica, S.A.;500000
+196  Banco Delta, S.A.;024  Banco Internacional de Costa Rica, S.A.;500000
+196  Banco Delta, S.A.;050  Banco Aliado S.A.;89385.65
+196  Banco Delta, S.A.;050  Banco Aliado S.A.;500000
+196  Banco Delta, S.A.;140  Credicorp Bank S.A.;1000000
+196  Banco Delta, S.A.;155  BAC International Bank, Inc.;6895.5
+196  Banco Delta, S.A.;155  BAC International Bank, Inc.;1000000
+196  Banco Delta, S.A.;155  BAC International Bank, Inc.;1000000
+196  Banco Delta, S.A.;173  MMG Bank Corporation;13582.05
+196  Banco Delta, S.A.;173  MMG Bank Corporation;6170.91
+196  Banco Delta, S.A.;173  MMG Bank Corporation;1000000
+196  Banco Delta, S.A.;173  MMG Bank Corporation;600000
+196  Banco Delta, S.A.;173  MMG Bank Corporation;500000
+196  Banco Delta, S.A.;182  Banistmo S.A.;505850.31
+196  Banco Delta, S.A.;182  Banistmo S.A.;1032240.46
+196  Banco Delta, S.A.;206  Banisi, S.A.;500000
+196  Banco Delta, S.A.;206  Banisi, S.A.;500000
+196  Banco Delta, S.A.;206  Banisi, S.A.;500000
+196  Banco Delta, S.A.;210  Capital Bank Inc.;500000
+196  Banco Delta, S.A.;231  Banco Prival, S.A.;33723.28
+196  Banco Delta, S.A.;231  Banco Prival, S.A.;1065.21
+196  Banco Delta, S.A.;231  Banco Prival, S.A.;1000000
+196  Banco Delta, S.A.;E025 BANCO SABADELL                                         ;65072.84
+196  Banco Delta, S.A.;E025 BANCO SABADELL                                         ;1000000
+196  Banco Delta, S.A.;E025 BANCO SABADELL                                         ;2000000
+196  Banco Delta, S.A.;E078 MORGAN STANLEY                                         ;357966.38
+199  BHD International Bank (Panamá) S.A.;007  Banco Davivienda (Panamá) S.A.;62107.88
+199  BHD International Bank (Panamá) S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;20000000
+199  BHD International Bank (Panamá) S.A.;037  Citibank, N.A. Sucursal Panamá;20213302.63
+199  BHD International Bank (Panamá) S.A.;050  Banco Aliado S.A.;13703.19
+199  BHD International Bank (Panamá) S.A.;182  Banistmo S.A.;1793953.66
+199  BHD International Bank (Panamá) S.A.;E025 BANCO SABADELL                                         ;5558837.68
+199  BHD International Bank (Panamá) S.A.;E033 BANK OF AMERICA;3440266.31
+199  BHD International Bank (Panamá) S.A.;E041 CAJA DE AHORROS DE GALICIA  (CAIXA GALICIA)            ;2144016.5
+199  BHD International Bank (Panamá) S.A.;E094 THE BANK OF NEW YORK                                   ;724494.63
+199  BHD International Bank (Panamá) S.A.;E101 UBS                                                    ;392682.73
+199  BHD International Bank (Panamá) S.A.;E104 WELLS FARGO                                            ;139274.43
+199  BHD International Bank (Panamá) S.A.;E104 WELLS FARGO                                            ;11794855.82
+199  BHD International Bank (Panamá) S.A.;E149 BANCO BHD;5098.53
+199  BHD International Bank (Panamá) S.A.;E149 BANCO BHD;1634191.18
+199  BHD International Bank (Panamá) S.A.;E149 BANCO BHD;1053.4
+201  Banesco (Panamá), S.A.;A001  Banco Nacional de Panamá;21940477.91
+201  Banesco (Panamá), S.A.;A001  Banco Nacional de Panamá;6294997.5
+201  Banesco (Panamá), S.A.;A001  Banco Nacional de Panamá;4000000
+201  Banesco (Panamá), S.A.;003  Banco General, S.A.;5074298.99
+201  Banesco (Panamá), S.A.;003  Banco General, S.A.;5002888.89
+201  Banesco (Panamá), S.A.;003  Banco General, S.A.;5000000
+201  Banesco (Panamá), S.A.;003  Banco General, S.A.;5006001.78
+201  Banesco (Panamá), S.A.;003  Banco General, S.A.;5019741.07
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5004389.85
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5004609.39
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5003072.22
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5002852.78
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5029839.67
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5022482.16
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5014466.33
+201  Banesco (Panamá), S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5155461.63
+201  Banesco (Panamá), S.A.;050  Banco Aliado S.A.;5045737.26
+201  Banesco (Panamá), S.A.;140  Credicorp Bank S.A.;5083771.56
+201  Banesco (Panamá), S.A.;182  Banistmo S.A.;5030872.58
+201  Banesco (Panamá), S.A.;182  Banistmo S.A.;5000000
+201  Banesco (Panamá), S.A.;231  Banco Prival, S.A.;1019738.15
+201  Banesco (Panamá), S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5002870.83
+201  Banesco (Panamá), S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+201  Banesco (Panamá), S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5038326.93
+201  Banesco (Panamá), S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5005080.43
+201  Banesco (Panamá), S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5004803.92
+201  Banesco (Panamá), S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5002852.78
+201  Banesco (Panamá), S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5025533.28
+201  Banesco (Panamá), S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;10011200.29
+201  Banesco (Panamá), S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;5000000
+201  Banesco (Panamá), S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;5000000
+201  Banesco (Panamá), S.A.;E042 CITIBANK                                               ;22463666.15
+201  Banesco (Panamá), S.A.;E042 CITIBANK                                               ;25581270.58
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;10038792.51
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5004157.79
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5059141.15
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5000000
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5030045.45
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5006252.54
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5038022.29
+201  Banesco (Panamá), S.A.;E046 CORPORACION ANDINA DE FOMENTO (CAF)                    ;5009961.75
+201  Banesco (Panamá), S.A.;E052 DEUTSCHE BANK                                          ;21302072.15
+201  Banesco (Panamá), S.A.;E052 DEUTSCHE BANK                                          ;40000000
+201  Banesco (Panamá), S.A.;E089 STANDARD CHARTERED BANK                                ;5426966.97
+201  Banesco (Panamá), S.A.;E089 STANDARD CHARTERED BANK                                ;3957013.36
+201  Banesco (Panamá), S.A.;E089 STANDARD CHARTERED BANK                                ;107228.49
+201  Banesco (Panamá), S.A.;E089 STANDARD CHARTERED BANK                                ;5000000
+201  Banesco (Panamá), S.A.;E089 STANDARD CHARTERED BANK                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E090 SUMITOMO MITSUI BANKING                                ;5000000
+201  Banesco (Panamá), S.A.;E147 BANCO DE BOGOTA;30995.39
+201  Banesco (Panamá), S.A.;E212 Banco Etcheverría;21229959.54
+206  Banisi, S.A.;A001  Banco Nacional de Panamá;4794041.91
+206  Banisi, S.A.;A001  Banco Nacional de Panamá;869875.88
+206  Banisi, S.A.;003  Banco General, S.A.;113528.78
+206  Banisi, S.A.;003  Banco General, S.A.;76198.3
+206  Banisi, S.A.;003  Banco General, S.A.;1150000
+206  Banisi, S.A.;024  Banco Internacional de Costa Rica, S.A.;500000
+206  Banisi, S.A.;024  Banco Internacional de Costa Rica, S.A.;1000000
+206  Banisi, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2000000
+206  Banisi, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;500000
+206  Banisi, S.A.;135  Multibank Inc.;500000
+206  Banisi, S.A.;173  MMG Bank Corporation;501552.15
+206  Banisi, S.A.;182  Banistmo S.A.;259462.66
+206  Banisi, S.A.;182  Banistmo S.A.;3600000
+206  Banisi, S.A.;182  Banistmo S.A.;2000000
+206  Banisi, S.A.;E025 BANCO SABADELL                                         ;90744.4
+206  Banisi, S.A.;E104 WELLS FARGO                                            ;1120.28
+206  Banisi, S.A.;E104 WELLS FARGO                                            ;1151474.49
+206  Banisi, S.A.;E104 WELLS FARGO                                            ;17800000
+210  Capital Bank Inc.;A001  Banco Nacional de Panamá;9011309.98
+210  Capital Bank Inc.;A001  Banco Nacional de Panamá;2386332.51
+210  Capital Bank Inc.;A001  Banco Nacional de Panamá;874000
+210  Capital Bank Inc.;A001  Banco Nacional de Panamá;1526000
+210  Capital Bank Inc.;050  Banco Aliado S.A.;2000000
+210  Capital Bank Inc.;140  Credicorp Bank S.A.;2000000
+210  Capital Bank Inc.;173  MMG Bank Corporation;2255157.26
+210  Capital Bank Inc.;182  Banistmo S.A.;4015239.89
+210  Capital Bank Inc.;182  Banistmo S.A.;1500000
+210  Capital Bank Inc.;182  Banistmo S.A.;2000000
+210  Capital Bank Inc.;182  Banistmo S.A.;2000000
+210  Capital Bank Inc.;182  Banistmo S.A.;2000000
+210  Capital Bank Inc.;231  Banco Prival, S.A.;5534.05
+210  Capital Bank Inc.;231  Banco Prival, S.A.;1000000
+210  Capital Bank Inc.;231  Banco Prival, S.A.;2000000
+210  Capital Bank Inc.;236  Unibank, S.A.;2000000
+210  Capital Bank Inc.;236  Unibank, S.A.;2000000
+210  Capital Bank Inc.;E025 BANCO SABADELL                                         ;27831904.54
+210  Capital Bank Inc.;E026 BANCO SANTANDER CENTRAL HISPANO                        ;1380210.18
+210  Capital Bank Inc.;E045 COMMERZBANK                                            ;2000000
+210  Capital Bank Inc.;E052 DEUTSCHE BANK                                          ;3968092.69
+210  Capital Bank Inc.;E052 DEUTSCHE BANK                                          ;30761469.93
+210  Capital Bank Inc.;E052 DEUTSCHE BANK                                          ;1400000
+210  Capital Bank Inc.;E052 DEUTSCHE BANK                                          ;450000
+210  Capital Bank Inc.;E085 SAFRA BANK;265039.02
+210  Capital Bank Inc.;E094 THE BANK OF NEW YORK                                   ;32402.92
+210  Capital Bank Inc.;E179 ANDBANC GRUP AGRICOL REIG;1257150.38
+210  Capital Bank Inc.;E999 OTRAS ENTIDADES BANCARIAS;10000000
+215  Mercantil Banco S.A.;A001  Banco Nacional de Panamá;6729312.47
+215  Mercantil Banco S.A.;A001  Banco Nacional de Panamá;3386833.36
+215  Mercantil Banco S.A.;003  Banco General, S.A.;231943.19
+215  Mercantil Banco S.A.;182  Banistmo S.A.;13587.64
+215  Mercantil Banco S.A.;201  Banesco (Panamá), S.A.;2000000
+215  Mercantil Banco S.A.;231  Banco Prival, S.A.;443859.53
+215  Mercantil Banco S.A.;231  Banco Prival, S.A.;1000000
+215  Mercantil Banco S.A.;E043 CLEARSTREAM BANKING                                    ;1430.8
+215  Mercantil Banco S.A.;E043 CLEARSTREAM BANKING                                    ;14230.68
+215  Mercantil Banco S.A.;E043 CLEARSTREAM BANKING                                    ;1101.11
+215  Mercantil Banco S.A.;E089 STANDARD CHARTERED BANK                                ;39314.85
+215  Mercantil Banco S.A.;E089 STANDARD CHARTERED BANK                                ;4479523.51
+215  Mercantil Banco S.A.;E094 THE BANK OF NEW YORK                                   ;55381.72
+215  Mercantil Banco S.A.;E101 UBS                                                    ;6.72
+215  Mercantil Banco S.A.;E101 UBS                                                    ;4879.2
+215  Mercantil Banco S.A.;E229 BANKINTER;3932853.61
+220  Banco Panamá, S.A.;A001  Banco Nacional de Panamá;19732818.93
+220  Banco Panamá, S.A.;A001  Banco Nacional de Panamá;1426520.49
+220  Banco Panamá, S.A.;003  Banco General, S.A.;1849.63
+220  Banco Panamá, S.A.;003  Banco General, S.A.;565174.66
+220  Banco Panamá, S.A.;024  Banco Internacional de Costa Rica, S.A.;2500000
+220  Banco Panamá, S.A.;024  Banco Internacional de Costa Rica, S.A.;1500000
+220  Banco Panamá, S.A.;024  Banco Internacional de Costa Rica, S.A.;1000000
+220  Banco Panamá, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+220  Banco Panamá, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2000000
+220  Banco Panamá, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2000000
+220  Banco Panamá, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;3000000
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;9919.43
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;1000000
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;2500000
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;3500000
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;3000000
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;1000000
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;2000000
+220  Banco Panamá, S.A.;050  Banco Aliado S.A.;2500000
+220  Banco Panamá, S.A.;056  Towerbank International Inc.;2000000
+220  Banco Panamá, S.A.;056  Towerbank International Inc.;2000000
+220  Banco Panamá, S.A.;056  Towerbank International Inc.;1000000
+220  Banco Panamá, S.A.;135  Multibank Inc.;2000000
+220  Banco Panamá, S.A.;135  Multibank Inc.;3000000
+220  Banco Panamá, S.A.;135  Multibank Inc.;3000000
+220  Banco Panamá, S.A.;140  Credicorp Bank S.A.;1000000
+220  Banco Panamá, S.A.;140  Credicorp Bank S.A.;2000000
+220  Banco Panamá, S.A.;140  Credicorp Bank S.A.;1000000
+220  Banco Panamá, S.A.;148  Global Bank Corporation;713717.25
+220  Banco Panamá, S.A.;173  MMG Bank Corporation;929087.73
+220  Banco Panamá, S.A.;173  MMG Bank Corporation;1439710.7
+220  Banco Panamá, S.A.;173  MMG Bank Corporation;2000000
+220  Banco Panamá, S.A.;182  Banistmo S.A.;5000000
+220  Banco Panamá, S.A.;182  Banistmo S.A.;4000000
+220  Banco Panamá, S.A.;231  Banco Prival, S.A.;205501.09
+220  Banco Panamá, S.A.;231  Banco Prival, S.A.;1000000
+220  Banco Panamá, S.A.;231  Banco Prival, S.A.;2000000
+220  Banco Panamá, S.A.;E005 BAC                                                    ;892729.85
+220  Banco Panamá, S.A.;E005 BAC                                                    ;3000000
+220  Banco Panamá, S.A.;E005 BAC                                                    ;3000000
+220  Banco Panamá, S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;3000000
+220  Banco Panamá, S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;7000000
+220  Banco Panamá, S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;3000000
+220  Banco Panamá, S.A.;E042 CITIBANK                                               ;12660441.27
+220  Banco Panamá, S.A.;E085 SAFRA BANK;3500000
+220  Banco Panamá, S.A.;E085 SAFRA BANK;3000000
+220  Banco Panamá, S.A.;E098 THE ROYAL BANK OF CANADA                               ;18852.66
+220  Banco Panamá, S.A.;E101 UBS                                                    ;2853.31
+220  Banco Panamá, S.A.;E212 Banco Etcheverría;487.06
+224  Banco  Credit  Andorra (Panamá) S. A.;182  Banistmo S.A.;3338812.56
+224  Banco  Credit  Andorra (Panamá) S. A.;182  Banistmo S.A.;135956.97
+224  Banco  Credit  Andorra (Panamá) S. A.;182  Banistmo S.A.;540389.73
+224  Banco  Credit  Andorra (Panamá) S. A.;E094 THE BANK OF NEW YORK                                   ;873457.8
+224  Banco  Credit  Andorra (Panamá) S. A.;E094 THE BANK OF NEW YORK                                   ;4568056.33
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;2744.02
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;14942.81
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;17998539.51
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;17533850.95
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;3541.51
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;147393.41
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;1949795.78
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;2890838
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;456440.44
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;326428.1
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;1348.45
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;10506.58
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;187921.68
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;1046062.33
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;5302686.62
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;19844.12
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;11746.16
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;334763.75
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;68246.96
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;108597.99
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;248678.56
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;4249975
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;6849057.3
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;825000
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;110000
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;170000
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;1299349.48
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;1150000
+224  Banco  Credit  Andorra (Panamá) S. A.;E155 CREDIT ANDORRA;110000
+225  BCT Bank International, S.A.;A001  Banco Nacional de Panamá;9018587.45
+225  BCT Bank International, S.A.;A001  Banco Nacional de Panamá;111997.89
+225  BCT Bank International, S.A.;A001  Banco Nacional de Panamá;200000
+225  BCT Bank International, S.A.;024  Banco Internacional de Costa Rica, S.A.;42141
+225  BCT Bank International, S.A.;024  Banco Internacional de Costa Rica, S.A.;2000000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1000000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2000000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2000000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1000000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1500000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1500000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1500000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1500000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;1500000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;2000000
+225  BCT Bank International, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;4500000
+225  BCT Bank International, S.A.;173  MMG Bank Corporation;4948.19
+225  BCT Bank International, S.A.;206  Banisi, S.A.;1000000
+225  BCT Bank International, S.A.;E026 BANCO SANTANDER CENTRAL HISPANO                        ;52986.53
+225  BCT Bank International, S.A.;E033 BANK OF AMERICA;26954950.31
+225  BCT Bank International, S.A.;E052 DEUTSCHE BANK                                          ;1235557.76
+225  BCT Bank International, S.A.;E052 DEUTSCHE BANK                                          ;5191206.91
+225  BCT Bank International, S.A.;E057 EFG BANK                                               ;44135.65
+225  BCT Bank International, S.A.;E069 JP MORGAN CHASE ;25713775.51
+225  BCT Bank International, S.A.;E130 UNION BANCAIRE PRIVÉE (UBP).;38171.05
+225  BCT Bank International, S.A.;E206 Euroclear Bank;66165.72
+226  BBP BANK, S.A.;A001  Banco Nacional de Panamá;3952018.93
+226  BBP BANK, S.A.;A001  Banco Nacional de Panamá;150280.65
+226  BBP BANK, S.A.;148  Global Bank Corporation;186968.25
+226  BBP BANK, S.A.;173  MMG Bank Corporation;385766.31
+226  BBP BANK, S.A.;182  Banistmo S.A.;849009.44
+226  BBP BANK, S.A.;E042 CITIBANK                                               ;16874084.5
+226  BBP BANK, S.A.;E069 JP MORGAN CHASE ;157011.18
+226  BBP BANK, S.A.;E078 MORGAN STANLEY                                         ;5571703.44
+226  BBP BANK, S.A.;E089 STANDARD CHARTERED BANK                                ;4734283.57
+226  BBP BANK, S.A.;E101 UBS                                                    ;371532.13
+226  BBP BANK, S.A.;E104 WELLS FARGO                                            ;14711112.89
+230  Andbank ( Panamá), S.A;A001  Banco Nacional de Panamá;9443.6
+230  Andbank ( Panamá), S.A;A001  Banco Nacional de Panamá;9443.6
+230  Andbank ( Panamá), S.A;155  BAC International Bank, Inc.;1069839.89
+230  Andbank ( Panamá), S.A;155  BAC International Bank, Inc.;871122.46
+230  Andbank ( Panamá), S.A;185  St. Georges Bank & Company, Inc.;446426.2
+230  Andbank ( Panamá), S.A;185  St. Georges Bank & Company, Inc.;46364.1
+230  Andbank ( Panamá), S.A;185  St. Georges Bank & Company, Inc.;446426.2
+230  Andbank ( Panamá), S.A;185  St. Georges Bank & Company, Inc.;46364.1
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;169157.94
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;221791.58
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;0.09
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;458.12
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;11319900.1
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;0.01
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;0.72
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;0.03
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;8.11
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;0.26
+230  Andbank ( Panamá), S.A;E179 ANDBANC GRUP AGRICOL REIG;0.19
+230  Andbank ( Panamá), S.A;E251 PERSHING;448264.85
+230  Andbank ( Panamá), S.A;E251 PERSHING;142675
+230  Andbank ( Panamá), S.A;E251 PERSHING;8532.91
+230  Andbank ( Panamá), S.A;E251 PERSHING;12374.57
+230  Andbank ( Panamá), S.A;E251 PERSHING;3074.75
+230  Andbank ( Panamá), S.A;E251 PERSHING;3001.86
+231  Banco Prival, S.A.;A001  Banco Nacional de Panamá;297022.18
+231  Banco Prival, S.A.;A001  Banco Nacional de Panamá;32856092.5
+231  Banco Prival, S.A.;056  Towerbank International Inc.;1000000
+231  Banco Prival, S.A.;136  Metrobank, S.A.;1000000
+231  Banco Prival, S.A.;140  Credicorp Bank S.A.;1000000
+231  Banco Prival, S.A.;140  Credicorp Bank S.A.;1000000
+231  Banco Prival, S.A.;148  Global Bank Corporation;264496.61
+231  Banco Prival, S.A.;148  Global Bank Corporation;1000000
+231  Banco Prival, S.A.;196  Banco Delta, S.A.;1000000
+231  Banco Prival, S.A.;220  Banco Panamá, S.A.;1000000
+231  Banco Prival, S.A.;220  Banco Panamá, S.A.;1000000
+231  Banco Prival, S.A.;E005 BAC                                                    ;4430922.93
+231  Banco Prival, S.A.;E052 DEUTSCHE BANK                                          ;6900466.9
+231  Banco Prival, S.A.;E052 DEUTSCHE BANK                                          ;3217120.45
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;7949.33
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;12963.71
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;13577.63
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;114827.03
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;200690.57
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;2765532.12
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;3328265.78
+231  Banco Prival, S.A.;E094 THE BANK OF NEW YORK                                   ;7122807.73
+231  Banco Prival, S.A.;E206 Euroclear Bank;1182.92
+231  Banco Prival, S.A.;E206 Euroclear Bank;3584.15
+231  Banco Prival, S.A.;E206 Euroclear Bank;4377.78
+231  Banco Prival, S.A.;E206 Euroclear Bank;11976.84
+231  Banco Prival, S.A.;E206 Euroclear Bank;12769.52
+231  Banco Prival, S.A.;E206 Euroclear Bank;19755.92
+231  Banco Prival, S.A.;E206 Euroclear Bank;60796.45
+231  Banco Prival, S.A.;E206 Euroclear Bank;305361.64
+231  Banco Prival, S.A.;E206 Euroclear Bank;331155.07
+231  Banco Prival, S.A.;E206 Euroclear Bank;1586558.75
+231  Banco Prival, S.A.;E206 Euroclear Bank;9544501.03
+231  Banco Prival, S.A.;E206 Euroclear Bank;14409138.27
+233  Banco Lafise Panamá S.A.;A001  Banco Nacional de Panamá;903504.58
+233  Banco Lafise Panamá S.A.;A001  Banco Nacional de Panamá;24435230.05
+233  Banco Lafise Panamá S.A.;024  Banco Internacional de Costa Rica, S.A.;34634.5
+233  Banco Lafise Panamá S.A.;148  Global Bank Corporation;1009024.17
+233  Banco Lafise Panamá S.A.;A001  Banco Nacional de Panamá;181451.06
+233  Banco Lafise Panamá S.A.;E069 JP MORGAN CHASE ;5212453.94
+233  Banco Lafise Panamá S.A.;E069 JP MORGAN CHASE ;1675240.57
+233  Banco Lafise Panamá S.A.;E229 BANKINTER;1896435.35
+234  Banco Internacional de Perú, S.A.A.;182  Banistmo S.A.;57130.33
+234  Banco Internacional de Perú, S.A.A.;E089 STANDARD CHARTERED BANK                                ;12794505.98
+234  Banco Internacional de Perú, S.A.A.;E184 INTELIGO BANK- NASSAU- BAHAMAS;393913.6
+235  Banco La Hipotecaria, S. A.;A001  Banco Nacional de Panamá;2868930.7
+235  Banco La Hipotecaria, S. A.;A001  Banco Nacional de Panamá;1947737
+235  Banco La Hipotecaria, S. A.;003  Banco General, S.A.;643610.76
+235  Banco La Hipotecaria, S. A.;003  Banco General, S.A.;2024821.22
+235  Banco La Hipotecaria, S. A.;003  Banco General, S.A.;8476.44
+235  Banco La Hipotecaria, S. A.;003  Banco General, S.A.;364285.42
+235  Banco La Hipotecaria, S. A.;003  Banco General, S.A.;20260207.53
+235  Banco La Hipotecaria, S. A.;003  Banco General, S.A.;202222.44
+235  Banco La Hipotecaria, S. A.;050  Banco Aliado S.A.;1085322.25
+235  Banco La Hipotecaria, S. A.;155  BAC International Bank, Inc.;32905.2
+235  Banco La Hipotecaria, S. A.;155  BAC International Bank, Inc.;513409.82
+235  Banco La Hipotecaria, S. A.;182  Banistmo S.A.;2022176.43
+235  Banco La Hipotecaria, S. A.;182  Banistmo S.A.;235726.9
+236  Unibank, S.A.;A001  Banco Nacional de Panamá;199075.57
+236  Unibank, S.A.;024  Banco Internacional de Costa Rica, S.A.;2000000
+236  Unibank, S.A.;140  Credicorp Bank S.A.;1000000
+236  Unibank, S.A.;E005 BAC                                                    ;5957365.3
+236  Unibank, S.A.;E005 BAC                                                    ;487124.59
+236  Unibank, S.A.;E005 BAC                                                    ;5000000
+236  Unibank, S.A.;E014 BANCO DE CREDITO E INVERSIONES                         ;16000000
+236  Unibank, S.A.;E025 BANCO SABADELL                                         ;670007.73
+236  Unibank, S.A.;E101 UBS                                                    ;22148.28
+236  Unibank, S.A.;E237 CAIXABANK;826402.15
+236  Unibank, S.A.;A001  Banco Nacional de Panamá;13480888.91
+237  The Bank of Nova Scotia (Panamá), S.A.;A001  Banco Nacional de Panamá;15639.04
+237  The Bank of Nova Scotia (Panamá), S.A.;045  The Bank Of Nova Scotia;7734160.46
+239  Allbank Corp.;A001  Banco Nacional de Panamá;1000
+239  Allbank Corp.;A001  Banco Nacional de Panamá;9031319.4
+239  Allbank Corp.;E057 EFG BANK                                               ;28658.14
+239  Allbank Corp.;E085 SAFRA BANK;45422.11
+239  Allbank Corp.;E085 SAFRA BANK;4441.33
+243  Bancolombia S.A.;A001  Banco Nacional de Panamá;6711948.21
+243  Bancolombia S.A.;A001  Banco Nacional de Panamá;3170540.45
+243  Bancolombia S.A.;182  Banistmo S.A.;435505.37
+243  Bancolombia S.A.;182  Banistmo S.A.;549586.53
+243  Bancolombia S.A.;182  Banistmo S.A.;27402.31
+243  Bancolombia S.A.;E042 CITIBANK                                               ;24980309.33
+243  Bancolombia S.A.;E069 JP MORGAN CHASE ;59131399.27
+243  Bancolombia S.A.;E104 WELLS FARGO                                            ;29725773.33
+243  Bancolombia S.A.;E133 ZURCHER KANTONALBANK ;15000000
+243  Bancolombia S.A.;E999 OTRAS ENTIDADES BANCARIAS;10000000
+243  Bancolombia S.A.;E999 OTRAS ENTIDADES BANCARIAS;10000000
+243  Bancolombia S.A.;E999 OTRAS ENTIDADES BANCARIAS;10000000
+243  Bancolombia S.A.;E999 OTRAS ENTIDADES BANCARIAS;10000000
+244  PKB Banca Privada (Panamá), S.A.;003  Banco General, S.A.;334018.48
+244  PKB Banca Privada (Panamá), S.A.;003  Banco General, S.A.;11000
+244  PKB Banca Privada (Panamá), S.A.;003  Banco General, S.A.;11000
+244  PKB Banca Privada (Panamá), S.A.;003  Banco General, S.A.;11000
+244  PKB Banca Privada (Panamá), S.A.;E070 KBC BANK                                               ;2000000
+245  Pacific Bank, S.A.;A001  Banco Nacional de Panamá;4704021.6
+245  Pacific Bank, S.A.;A001  Banco Nacional de Panamá;1189424.22
+245  Pacific Bank, S.A.;173  MMG Bank Corporation;1500000
+245  Pacific Bank, S.A.;173  MMG Bank Corporation;1000000
+245  Pacific Bank, S.A.;182  Banistmo S.A.;239258.37
+245  Pacific Bank, S.A.;182  Banistmo S.A.;1300000
+245  Pacific Bank, S.A.;182  Banistmo S.A.;1000000
+245  Pacific Bank, S.A.;182  Banistmo S.A.;1000000
+245  Pacific Bank, S.A.;225  BCT Bank International, S.A.;1000000
+245  Pacific Bank, S.A.;E094 THE BANK OF NEW YORK                                   ;9352665.94
+245  Pacific Bank, S.A.;E134 MMG BANK & TRUST LTD. ;546517.32
+245  Pacific Bank, S.A.;E144 BANCO DEL PACIFICO;737410.54
+245  Pacific Bank, S.A.;E220 Pacific National Bank;19840
+246  Banco Ficohsa (Panamá), S. A.;A001  Banco Nacional de Panamá;7548645.57
+246  Banco Ficohsa (Panamá), S. A.;A001  Banco Nacional de Panamá;730000.38
+246  Banco Ficohsa (Panamá), S. A.;135  Multibank Inc.;160162.89
+246  Banco Ficohsa (Panamá), S. A.;173  MMG Bank Corporation;55038.97
+246  Banco Ficohsa (Panamá), S. A.;182  Banistmo S.A.;582744.82
+246  Banco Ficohsa (Panamá), S. A.;231  Banco Prival, S.A.;5625.46
+246  Banco Ficohsa (Panamá), S. A.;E033 BANK OF AMERICA;11995395.75
+246  Banco Ficohsa (Panamá), S. A.;E042 CITIBANK                                               ;5885271.07
+246  Banco Ficohsa (Panamá), S. A.;E069 JP MORGAN CHASE ;772385.3
+246  Banco Ficohsa (Panamá), S. A.;E104 WELLS FARGO                                            ;50767.41
+246  Banco Ficohsa (Panamá), S. A.;E104 WELLS FARGO                                            ;19.31
+246  Banco Ficohsa (Panamá), S. A.;E104 WELLS FARGO                                            ;11543000
+247  Banco de Bogotá, S.A.;A001  Banco Nacional de Panamá;1692216.21
+247  Banco de Bogotá, S.A.;A001  Banco Nacional de Panamá;10222.03
+247  Banco de Bogotá, S.A.;003  Banco General, S.A.;500
+247  Banco de Bogotá, S.A.;E033 BANK OF AMERICA;207003.14
+247  Banco de Bogotá, S.A.;E042 CITIBANK                                               ;49848.85
+247  Banco de Bogotá, S.A.;E104 WELLS FARGO                                            ;10154839.91
+249  Canal Bank S.A.;A001  Banco Nacional de Panamá;9300646.79
+249  Canal Bank S.A.;A001  Banco Nacional de Panamá;256155.09
+249  Canal Bank S.A.;A001  Banco Nacional de Panamá;4000000
+249  Canal Bank S.A.;148  Global Bank Corporation;61920.18
+249  Canal Bank S.A.;E025 BANCO SABADELL                                         ;40786.33
+249  Canal Bank S.A.;E025 BANCO SABADELL                                         ;1094539.91
+249  Canal Bank S.A.;E025 BANCO SABADELL                                         ;5000000
+249  Canal Bank S.A.;E025 BANCO SABADELL                                         ;5000000
+249  Canal Bank S.A.;E025 BANCO SABADELL                                         ;3000000
+253  Banco Davivienda Internacional (Panamá), S.A.;007  Banco Davivienda (Panamá) S.A.;1124353.78
+253  Banco Davivienda Internacional (Panamá), S.A.;E104 WELLS FARGO                                            ;688239.12
+254  BPR BANK, S.A.;003  Banco General, S.A.;120713.49
+254  BPR BANK, S.A.;003  Banco General, S.A.;22293.59
+254  BPR BANK, S.A.;173  MMG Bank Corporation;54831.31
+254  BPR BANK, S.A.;E042 CITIBANK                                               ;2413499.44
+255  Bi-Bank, S.A.;A001  Banco Nacional de Panamá;4597505.91
+255  Bi-Bank, S.A.;A001  Banco Nacional de Panamá;362878.36
+255  Bi-Bank, S.A.;003  Banco General, S.A.;86805.6
+255  Bi-Bank, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;4000000
+255  Bi-Bank, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+255  Bi-Bank, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;6000000
+255  Bi-Bank, S.A.;027  Banco Latinoamericano de Comercio Exterior, S.A. (BLADE;5000000
+255  Bi-Bank, S.A.;173  MMG Bank Corporation;214524.45
+255  Bi-Bank, S.A.;173  MMG Bank Corporation;5000000
+255  Bi-Bank, S.A.;182  Banistmo S.A.;5000000
+255  Bi-Bank, S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;2500000
+255  Bi-Bank, S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+255  Bi-Bank, S.A.;E009 BANCO CENTROAMERICANO DE INTEGRACION ECONOMICA         ;5000000
+255  Bi-Bank, S.A.;E033 BANK OF AMERICA;9417361.15
+258  Atlas Bank (Panamá), S.A.;A001  Banco Nacional de Panamá;535423.74
+258  Atlas Bank (Panamá), S.A.;A001  Banco Nacional de Panamá;0
+258  Atlas Bank (Panamá), S.A.;A001  Banco Nacional de Panamá;317946.93
+258  Atlas Bank (Panamá), S.A.;135  Multibank Inc.;20333.57
+258  Atlas Bank (Panamá), S.A.;148  Global Bank Corporation;4695.62
+258  Atlas Bank (Panamá), S.A.;148  Global Bank Corporation;38493.65
+258  Atlas Bank (Panamá), S.A.;148  Global Bank Corporation;259658.07
+258  Atlas Bank (Panamá), S.A.;148  Global Bank Corporation;7000000
+258  Atlas Bank (Panamá), S.A.;182  Banistmo S.A.;6179.81
+258  Atlas Bank (Panamá), S.A.;E101 UBS                                                    ;40249.96
